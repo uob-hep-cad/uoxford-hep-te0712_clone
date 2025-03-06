@@ -7,4 +7,6 @@ Pin compatible with Trenz TE0712
 Designed for use with DUNE MIB when the TE0712 was unavailable and its future uncertain.
 
 Designed using Mentor Boardstation
-  
+ 
+Schematic capture and layout - Pete Hastings , Oxford, 2024
+ 
