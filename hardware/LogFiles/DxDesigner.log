@@ -1,0 +1,78 @@
+ICDB server [info]: [AutoSave] backup of size [5.5 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-06 14.12.16 - auto.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [5.6 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-06 14.18.21 - symUpd.zip]
+ICDB server [info]: [AutoSave] backup of size [6.1 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-07 06.44.37 - auto.zip]
+This symbol represents a Global Signal and cannot be named. To change the signal assignment modify the Global Signal Name property.
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [6.8 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-07 10.15.53 - symUpd.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [7.0 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-07 10.44.37 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [7.1 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-08 06.52.24 - auto.zip]
+Selected objects contain constraints that will not be copied
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [7.1 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-08 10.52.24 - auto.zip]
+Backup operation will not store instance data from the hierarchical blocks. It's recommended to use Archiver to include instance data.
+<p>Backup 2023-02-08 14:03:18 of schematic MIB_FPGA_Module.Regulators created successfully. <a href="handler:BackupCommenter(_savepoint[SCH][288230380446679042][4971974001501929583][9:46:58_2-8-23][1675864998];1675864998)" onClick="window.external.OnLinkClick(this);"><b>Click here to enter a comment.</b></a></p>
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [7.2 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-08 14.52.24 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [7.2 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-09 06.39.03 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [7.5 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-09 10.41.09 - auto.zip]
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+ICDB server [info]: [AutoSave] backup of size [9.6 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-13 07.13.03 - auto.zip]
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+ICDB server [info]: [AutoSave] backup of size [9.6 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-13 13.38.38 - auto.zip]
+Selected objects contain constraints that will not be copied
+ICDB server [info]: [AutoSave] backup of size [10.4 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-14 07.36.48 - auto.zip]
+Backup operation will not store instance data from the hierarchical blocks. It's recommended to use Archiver to include instance data.
+Cannot copy from-to. See "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\CES\LogFiles\_savepoint[SCH][288230380446679042][4971974005796896770][14_31_29_2-13-23][1676362702]\MIB_FPGA_Module\ELWT2\hastingsp\MissingFromtos_2023.02.14_08.18.22.log" for details.
+<p>Backup 2023-02-14 08:18:22 of schematic MIB_FPGA_Module.Hermaphroditic Mezzanine Connectors created successfully. <a href="handler:BackupCommenter(_savepoint[SCH][288230380446679042][4971974005796896770][14:31:29_2-13-23][1676362702];1676362702)" onClick="window.external.OnLinkClick(this);"><b>Click here to enter a comment.</b></a></p>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [13.0 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-14 11.36.48 - auto.zip]
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+Loading IPL... c:/mentorgraphics/eevx.2.12/sdd_home/standard/templates/dxdesigner/expedition\PartsListerDefaults.ipl
+IPL load successful.
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [13.1 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-17 14.45.41 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [13.5 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-20 10.29.29 - auto.zip]
+Selected objects contain constraints that will not be copied
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [11.1 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-20 14.29.29 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [11.1 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-21 07.40.41 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [11.6 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-02-21 13.20.10 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [11.7 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-03-06 06.20.53 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [11.7 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-03-13 10.42.32 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [11.7 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-03-14 07.09.11 - auto.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [11.7 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-03-14 07.20.13 - symUpd.zip]
+Loading IPL... c:/mentorgraphics/eevx.2.12/sdd_home/standard/templates/dxdesigner/expedition\PartsListerDefaults.ipl
+IPL load successful.
+ICDB server [info]: [AutoSave] backup of size [11.9 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-03-21 14.53.51 - auto.zip]
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+ICDB server [info]: [AutoSave] backup of size [11.9 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-03-22 08.05.02 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [11.8 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-03-22 12.05.02 - auto.zip]
+Selected objects contain constraints that will not be copied
+ICDB server [info]: [AutoSave] backup of size [12.1 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-04-04 14.15.15 - auto.zip]
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied
+ICDB server [info]: [AutoSave] backup of size [12.3 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-05-03 11.54.59 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [12.2 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-06-02 15.18.11 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [12.2 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-06-15 07.19.12 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [12.2 MB] created successfully in location [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-06-15 13.53.59 - auto.zip]
+Backup operation will not store instance data from the hierarchical blocks. It's recommended to use Archiver to include instance data.
+<p>Backup 2023-06-15 13:57:06 of schematic MIB_FPGA_Module.FPGA Bank 0 + MGT + FLASH created successfully. <a href="handler:BackupCommenter(_savepoint[SCH][288230380446679042][4971974031566700567][6:11:05_4-13-23][1686833826];1686833826)" onClick="window.external.OnLinkClick(this);"><b>Click here to enter a comment.</b></a></p>
+Selected objects contain constraints that will not be copied
+Selected objects contain constraints that will not be copied

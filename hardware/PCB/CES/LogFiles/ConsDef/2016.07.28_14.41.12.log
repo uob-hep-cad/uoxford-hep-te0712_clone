@@ -1,0 +1,32 @@
+Thu Jul 28 14:41:12 2016
+
+Project path: C:\MGTraining\common\libraries\master-DXD\Templates\Layout\training\keyin.icdb
+
+Env. WDIR: c:\MGTraining\projects\local_config;c:\MGTraining\common\config;C:\MentorGraphics\EEVX.2\SDD_HOME\standard;
+WDIRs: 
+	c:\MGTraining\projects\local_config
+	c:\MGTraining\common\config
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard
+
+Loaded cns files: 
+	c:\MGTraining\projects\local_config\user.cns=3f87-53f9-4cae-b2c7-815e-68fc-15e6-8f40-dbf6-0440-ad07-a5a3
+	c:\MGTraining\common\config\user.cns=660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+
+Loaded cns - data stored in database: c:\MGTraining\projects\local_config\user.cns=3f87-53f9-4cae-b2c7-815e-68fc-15e6-8f40-dbf6-0440-ad07-a5a3;c:\MGTraining\common\config\user.cns=660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8;C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+Before global upgrade from version: 7.10.56 to version: 7.10.56
+
+Constraints definition "PCLASS" added.
+BeforeGlobalUpgrade took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Constraints definition "PCLASS" deleted.
+Set database cns file versions: ce_ee.cns=7.10.56;user.cns=3f87-53f9-4cae-b2c7-815e-68fc-15e6-8f40-dbf6-0440-ad07-a5a3,660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8
+AfterGlobalUpgrade took 0ms, 0s
+

@@ -1,0 +1,21 @@
+ ----------------------------
+|       BOM Output Log       |
+|          Started           |
+|  Mon May 15 07:05:53 2023  |
+ ----------------------------
+
+
+ Extracting Package cell information...
+
+ Extracting Mechanical cell information...
+
+
+ Generating BOM.
+
+
+
+ ---------------------------
+|       BOM Output Log       |
+|          Finished          |
+|  Mon May 15 07:05:54 2023  |
+ ----------------------------

@@ -1,0 +1,441 @@
+.FILETYPE GerberPlotSetupFile
+.VERSION "VB99.0"
+.CREATOR "Xpedition Layout Gerber Output"
+.DATE "Wednesday, June 28, 2023 08:25 AM"
+
+.BaseUnits "1NM"
+
+.GerberOutputDir "Output\\Gerber\\"
+
+.DataOffset 0 0
+.DataCopies 1 1
+ ..OriginOffset 0 0
+
+.GenerateMacro Yes 
+
+.VariantsOutput No 
+.DCodeToApertureFile "Sys: GerberD-Codes.dac"
+.GerberMachineFormatFile ".\\Config\\GerberMachineFile1.gmf"
+
+.GerberOutputFile "14_SilkscreenBottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\14_SilkscreenBottom.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem AlteredSilkscreenBottom
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "13_SoldermaskBottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\13_SoldermaskBottom.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem SoldermaskBottom
+
+.GerberOutputFile "12_Layer10Bottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\12_Layer10Bottom.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 10
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "11_Layer9.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\11_Layer9.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 9
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "10_Layer8.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\10_Layer8.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 8
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "09_Layer7.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\09_Layer7.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 7
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "08_Layer6.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\08_Layer6.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 6
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "07_Layer5.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\07_Layer5.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 5
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "06_Layer4.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\06_Layer4.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 4
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "05_Layer3.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\05_Layer3.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 3
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "04_Layer2.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\04_Layer2.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 2
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "03_Layer1Top.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\03_Layer1Top.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 1
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "02_SoldermaskTop.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\02_SoldermaskTop.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem SoldermaskTop
+
+.GerberOutputFile "01_SilkscreenTop.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\01_SilkscreenTop.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem AlteredSilkscreenTop
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+
+.GerberOutputFile "00_Detail.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\00_Detail.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem BoardOutline
+ ..BoardItem DrillDrawingThru
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..UserLayer "Stackup - All Layers"

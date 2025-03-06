@@ -1,0 +1,166 @@
+=======================================================================
+Xpedition Layout - Version 122.0.2169.7105
+=======================================================================
+
+Job Directory:        Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\
+
+Design Status Report: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\LogFiles\DesignStatus_04.txt
+
+Tue Feb 21 10:25:57 2023
+
+=======================================================================
+DESIGN STATUS
+=======================================================================
+Board Size Extents  ............ 75 X 40 (mm)
+Route Border Extents  .......... 74 X 39 (mm)
+Actual Board Area  ............. 2,996.144 (mm)
+Actual Route Area  ............. 2,883.322 (mm)
+
+Placement Areas: Name             Available         Required          Required/Available
+                 Entire Board     5,992.289 Sq. (mm)1,932.996 Sq. (mm)32.26 %
+
+Pins  .......................... 1155
+Pins per Route Area  ........... 0.401 Pins/Sq. (mm)
+
+Layers  ........................ 10
+    Layer 1 is a signal layer
+        Trace Widths  .......... 0.1, 0.2
+    Layer 2 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 3 is a signal layer
+        Trace Widths  .......... 0.1, 0.2
+    Layer 4 is a signal layer
+        Trace Widths  .......... 0.1, 0.2, 0.3
+    Layer 5 is a Positive Plane Layer with nets
+        3V3_MB
+        3V3_VCCO
+        Trace Widths  .......... None.
+    Layer 6 is a Positive Plane Layer with nets
+        1V0
+        1V2
+        2V5_MB
+        Trace Widths  .......... 0.3
+    Layer 7 is a signal layer
+        Trace Widths  .......... None.
+    Layer 8 is a signal layer
+        Trace Widths  .......... 0.1, 0.2
+    Layer 9 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 10 is a signal layer
+        Trace Widths  .......... 0.1, 0.2
+
+Nets  .......................... 161
+Connections  ................... 729
+Open Connections  .............. 42
+Differential Pairs  ............ 57
+Differential Pair Names:   B13_L3_N   B13_L3_P
+                           B13_L5_N   B13_L5_P
+                           B13_L6_N   B13_L6_P
+                           B13_L9_N   B13_L9_P
+                           B13_L11_N   B13_L11_P
+                           B13_L12_N   B13_L12_P
+                           B13_L13_N   B13_L13_P
+                           B14_L4_N   B14_L4_P
+                           B14_L8_N   B14_L8_P
+                           B14_L9_N   B14_L9_P
+                           B14_L10_N   B14_L10_P
+                           B14_L11_N   B14_L11_P
+                           B14_L12_N   B14_L12_P
+                           B14_L13_N   B14_L13_P
+                           B14_L14_N   B14_L14_P
+                           B14_L15_N   B14_L15_P
+                           B14_L16_N   B14_L16_P
+                           B14_L17_N   B14_L17_P
+                           B14_L18_N   B14_L18_P
+                           B15_L1_N   B15_L1_P
+                           B15_L2_N   B15_L2_P
+                           B15_L4_N   B15_L4_P
+                           B15_L7_N   B15_L7_P
+                           B15_L8_N   B15_L8_P
+                           B15_L9_N   B15_L9_P
+                           B15_L10_N   B15_L10_P
+                           B15_L11_N   B15_L11_P
+                           B15_L14_N   B15_L14_P
+                           B15_L15_N   B15_L15_P
+                           B15_L17_N   B15_L17_P
+                           B15_L19_N   B15_L19_P
+                           B15_L20_N   B15_L20_P
+                           B15_L21_N   B15_L21_P
+                           B15_L22_N   B15_L22_P
+                           B16_L3_N   B16_L3_P
+                           B16_L4_N   B16_L4_P
+                           B16_L6_N   B16_L6_P
+                           B16_L8_N   B16_L8_P
+                           B16_L9_N   B16_L9_P
+                           B16_L12_N   B16_L12_P
+                           B16_L14_N   B16_L14_P
+                           B16_L16_N   B16_L16_P
+                           B16_L18_N   B16_L18_P
+                           B16_L19_N   B16_L19_P
+                           B16_L20_N   B16_L20_P
+                           B16_L22_N   B16_L22_P
+                           B16_L23_N   B16_L23_P
+                           B16_L24_N   B16_L24_P
+                           CLK125M_0_N   CLK125M_0_P
+                           CLK125M_1_N   CLK125M_1_P
+                           MGT_CLK0_N   MGT_CLK0_P
+                           MGT_CLK1_N   MGT_CLK1_P
+                           MGT_RX0_N   MGT_RX0_P
+                           MGT_RX1_N   MGT_RX1_P
+                           MGT_TX0_N   MGT_TX0_P
+                           MGT_TX1_N   MGT_TX1_P
+                           125M_N   125M_P
+                           
+Percent Routed  ................ 94.24 %
+
+Netline Length  ................ 891.268 (mm)
+Netline Manhattan Length  ...... 1,159.19 (mm)
+Total Trace Length  ............ 2,901.345 (mm)
+
+Trace Widths Used (mm)  ........ 0.1, 0.2, 0.3
+Vias  .......................... 742
+Via Span  Name                   Quantity
+   1-10   via0_3x0_5mm_safe      742
+
+Teardrops....................... 0
+    Pad Teardrops............... 0
+    Trace Teardrops............. 0
+    Custom Teardrops............ 0
+Tracedrops...................... 0
+
+Virtual Pins.................... 0
+Guide Pins ..................... 0
+
+Parts Placed  .................. 159
+    Parts Mounted on Top  ...... 53
+        SMD  ................... 48
+        Through  ............... 5
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Parts Mounted on Bottom  ... 106
+        SMD  ................... 103
+        Through  ............... 3
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Embedded Components ........ 0
+        Capacitors ............. 0
+        Resistors .............. 0
+    RF Shapes .................. 0
+
+    Edge Connector Parts  ...... 0
+
+Parts not Placed  .............. 0
+
+Nested Cells  .................. 0
+
+Jumpers  ....................... 0
+
+Through Holes  ................. 767
+    Holes per Board Area  ...... 0.256 Holes/Sq. (mm)
+Mounting Holes  ................ 10
+
+Wirebonds
+    Bond Fingers ............... 0
+    Bond Wires ................. 0

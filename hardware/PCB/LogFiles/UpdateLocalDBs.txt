@@ -1,0 +1,12 @@
+
+                       Update Local Cell And Padstack DBs
+                       ----------------------------------
+
+                      07:37 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+     Version:  99.01.00
+
+The Local Cell And Padstack DBs have been updated with no errors or warnings.
+Please proceed with your component Design.

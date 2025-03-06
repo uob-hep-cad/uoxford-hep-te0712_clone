@@ -1,0 +1,10 @@
+SECTION Data
+LIST PersistentBackups
+VALUE "bc62-4c3a-5cd5-73b3-7975-3f3d-9753-f360-69b2-ee3b-69e5-e5e5"
+VALUE "c50c-9958-17d7-6a15-4f31-5e3a-f315-e360-22b0-ee3b-69e5-e5e5"
+VALUE "b0a4-c4f5-fd1c-b477-d669-d143-769d-1460-2762-ee3b-69e5-e5e5"
+VALUE "6f79-5283-ed72-3af9-8d85-ae3e-d85a-e360-e644-ee3b-69e5-e5e5"
+VALUE "2aab-1a2f-346e-258c-65ef-1e3c-5ef1-e360-a293-ee3b-69e5-e5e5"
+VALUE "2aab-993f-53c5-2cbf-df56-3f33-0663-f360-abb0-ee3b-69e5-e5e5"
+ENDLIST
+ENDSECTION

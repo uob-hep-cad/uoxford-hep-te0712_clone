@@ -1,0 +1,47 @@
+[2023.03.24 12:24:19] [0000m.16s.009ms] [0] WELCOME
+[2023.03.24 12:24:19] [0000m.16s.024ms] [1] iCDB Client ver.2.212, 0lZoFgSrvpc01NWN9kUtqA, build:21696686 created 2022-11-16 19:52:41, sources stamp:0lZoFgSrvpc01NWN9kUtqA
+[2023.03.24 12:24:19] [0000m.16s.024ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2023.03.24 12:24:19] [0000m.16s.024ms] [1] Base flow version [VX.2.12]
+[2023.03.24 12:24:19] [0000m.16s.024ms] [1] Install Id [2499080], Flow Id [X-ENTP VX.2.12], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.12], Exact Access Date [2022/08/01]
+[2023.03.24 12:24:19] [0000m.16s.024ms] [1] UPDATE Install Info, Install Id [2533498], UPDATE Name [Xpedition Enterprise X-ENTP VX.2.12 - Update 2]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] Machine [ELWT2]  IP [10.140.0.61,127.0.0.1]  User [hastingsp]  PID [12620]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] Operating system [Microsoft Windows 10 Enterprise Edition, 64-bit (build 19045)]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] Current working dir [C:\WINDOWS\system32]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] PATH [C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common3D\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\MATLAB\R2021a\runtime\win64;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\PuTTY\;C:\Users\hastingsp\AppData\Local\Microsoft\WindowsApps;]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.12\SDD_HOME] on file system [NTFS]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] SDD_PLATFORM [win64]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] WDIR [C:\WDIR\EEVX.2.12;C:\MentorGraphics\EEVX.2.12\SDD_HOME\standard;]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.12\iCDB] on file system [NTFS]
+[2023.03.24 12:24:19] [0000m.16s.025ms] [0] Creating database content backup before upgrade
+[2023.03.24 12:24:19] [0000m.16s.109ms] [0] Database content backed up to [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\cdbback\2023-03-24 12.24.19-12620.zip] of size [848 243 bytes (828.4 kB)] in [82ms 626us]
+[2023.03.24 12:24:19] [0000m.16s.111ms] [0] Loading snapshot [1:DxD] version [4200]
+[2023.03.24 12:24:19] [0000m.16s.119ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2023.03.24 12:24:19] [0000m.16s.144ms] [0] Snapshot [1:DxD] loaded in [33ms 328us]
+[2023.03.24 12:24:19] [0000m.16s.144ms] [0] Saving snapshot [1:DxD]
+[2023.03.24 12:24:19] [0000m.16s.201ms] [0] Snapshot [1:DxD] saved in [56ms 629us]
+[2023.03.24 12:24:19] [0000m.16s.207ms] [0] Loading snapshot [2:__ise_DxD] version [4200]
+[2023.03.24 12:24:19] [0000m.16s.209ms] [0] Snapshot [2:__ise_DxD] loaded in [1ms 365us]
+[2023.03.24 12:24:19] [0000m.16s.209ms] [0] Saving snapshot [2:__ise_DxD]
+[2023.03.24 12:24:19] [0000m.16s.210ms] [0] Snapshot [2:__ise_DxD] saved in [586us]
+[2023.03.24 12:24:19] [0000m.16s.210ms] [0] Loading snapshot [3:MIB_Module_layout_temp] version [4200]
+[2023.03.24 12:24:19] [0000m.16s.213ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2023.03.24 12:24:19] [0000m.16s.233ms] [0] Snapshot [3:MIB_Module_layout_temp] loaded in [22ms 69us]
+[2023.03.24 12:24:19] [0000m.16s.233ms] [0] Saving snapshot [3:MIB_Module_layout_temp]
+[2023.03.24 12:24:19] [0000m.16s.258ms] [0] Snapshot [3:MIB_Module_layout_temp] saved in [24ms 722us]
+[2023.03.24 12:24:19] [0000m.16s.262ms] [0] Loading snapshot [4:MIB_Module] version [4200]
+[2023.03.24 12:24:19] [0000m.16s.265ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2023.03.24 12:24:19] [0000m.16s.284ms] [0] Snapshot [4:MIB_Module] loaded in [21ms 406us]
+[2023.03.24 12:24:19] [0000m.16s.284ms] [0] Saving snapshot [4:MIB_Module]
+[2023.03.24 12:24:19] [0000m.16s.308ms] [0] Snapshot [4:MIB_Module] saved in [24ms 277us]
+[2023.03.24 12:24:19] [0000m.16s.311ms] [0] Loading snapshot [5:MIB_Module_RefSync] version [4200]
+[2023.03.24 12:24:19] [0000m.16s.314ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2023.03.24 12:24:19] [0000m.16s.335ms] [0] Snapshot [5:MIB_Module_RefSync] loaded in [22ms 959us]
+[2023.03.24 12:24:19] [0000m.16s.335ms] [0] Saving snapshot [5:MIB_Module_RefSync]
+[2023.03.24 12:24:19] [0000m.16s.359ms] [0] Snapshot [5:MIB_Module_RefSync] saved in [23ms 286us]
+[2023.03.24 12:24:19] [0000m.16s.362ms] [0] Loading snapshot [6:MIB_Module_LDDTemp] version [4200]
+[2023.03.24 12:24:19] [0000m.16s.369ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2023.03.24 12:24:19] [0000m.16s.393ms] [0] Snapshot [6:MIB_Module_LDDTemp] loaded in [30ms 485us]
+[2023.03.24 12:24:19] [0000m.16s.393ms] [0] Saving snapshot [6:MIB_Module_LDDTemp]
+[2023.03.24 12:24:20] [0000m.16s.449ms] [0] Snapshot [6:MIB_Module_LDDTemp] saved in [56ms 273us]
+[2023.03.24 12:24:20] [0000m.16s.459ms] [0] DONE
+[2023.03.24 12:24:20] [0000m.16s.459ms] [0] .

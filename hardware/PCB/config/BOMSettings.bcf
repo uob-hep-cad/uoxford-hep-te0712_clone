@@ -1,0 +1,82 @@
+.FILETYPE BOM_SETTINGS
+.VERSION "EE2007.1"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Monday, May 15, 2023 07:05 AM"
+
+.BOMFileName "Y:\\Users\\CEG\\Central Electronics\\Projects\\Hastingsp\\MENTOR\\DUNE\\MIB_Module\\PCB\\Output\\BOM\\MIB_Module.bom"
+
+.EPComponents No
+
+.PartNumber Yes
+..ItemNumber "ITEM_NUMBER" 
+...Selected Yes
+..PartName "COMPANY PART NO" 
+...Selected Yes
+..Geometry "GEOMETRY" 
+...Selected Yes
+..Count "COUNT" 
+...Selected Yes
+..Description "DESCRIPTION" 
+...Selected Yes
+..ReferenceName "REFERENCE NAME" 
+...Selected Yes
+..Comment "COMMENT" 
+...Selected Yes
+
+.ReferenceDesignator Yes
+..ItemNumber "ITEM_NUMBER" 
+...Selected Yes
+..PartName "COMPANY PART NO" 
+...Selected Yes
+..Geometry "GEOMETRY" 
+...Selected Yes
+..Description "DESCRIPTION" 
+...Selected Yes
+..ReferenceName "REFERENCE NAME" 
+...Selected Yes
+..Comment "COMMENT" 
+...Selected Yes
+
+.Properties 16
+..Prop "ALLOWED_MOUNT_SIDE" 
+...Selected No
+..Prop "Cell Name" 
+...Selected No
+..Prop "Component_InstanceModification" 
+...Selected No
+..Prop "Current" 
+...Selected No
+..Prop "Description" 
+...Selected No
+..Prop "Level" 
+...Selected No
+..Prop "Manufacturer Part Number" 
+...Selected No
+..Prop "MGC_UNIGROUP" 
+...Selected No
+..Prop "Part Label" 
+...Selected No
+..Prop "Part Name" 
+...Selected No
+..Prop "Part Number" 
+...Selected No
+..Prop "Prefix" 
+...Selected No
+..Prop "SPath" 
+...Selected No
+..Prop "SSheet" 
+...Selected No
+..Prop "Type" 
+...Selected No
+..Prop "Value" 
+...Selected Yes
+
+.AllComponents Yes
+.CommonComponents No
+.SelectVariant ""
+
+.AppendSuffix No
+
+.MechanicalCells Yes
+
+.UserProperties Yes

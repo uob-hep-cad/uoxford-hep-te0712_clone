@@ -1,0 +1,9 @@
+
+     Rooms & Clusters:
+RefDsg: 	C1 	Room: 	 	Cluster: 	Mezzanine
+RefDsg: 	C2 	Room: 	 	Cluster: 	Mezzanine
+RefDsg: 	C3 	Room: 	 	Cluster: 	Mezzanine
+RefDsg: 	JB1 	Room: 	 	Cluster: 	Mezzanine
+RefDsg: 	JB2 	Room: 	 	Cluster: 	Mezzanine
+RefDsg: 	JB3 	Room: 	 	Cluster: 	Mezzanine
+RefDsg: 	J1 	Room: 	 	Cluster: 	Mezzanine

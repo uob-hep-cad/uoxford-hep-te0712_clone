@@ -1,0 +1,120 @@
+.FILETYPE ODBSETUP
+.VERSION "3.0"
+.SCHEMA_VERSION 1
+.DATE "13/04/2023 11:04:11"
+.USERLAYERS 
+ ..ANYINCLUDES NO
+ ..NAME "Default User Layer"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_Default User Layer"
+ ..NAME "User Layer 27"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_User Layer 27"
+ ..NAME "Stackup - All Layers"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_Stackup - All Layers"
+.ODBPP_DOCUMENTATION 
+ ..ANYINCLUDES NO
+.LAYERS_TO_EXPORT 
+ ..NAME "d_1_10"
+  ...INCLUDE YES
+ ..NAME "smt"
+  ...INCLUDE YES
+ ..NAME "smb"
+  ...INCLUDE YES
+ ..NAME "sst"
+  ...INCLUDE YES
+ ..NAME "ssb"
+  ...INCLUDE YES
+ ..NAME "layer_top"
+  ...MAPPEDTO LAYER1
+  ...INCLUDE YES
+ ..NAME "layer_02"
+  ...MAPPEDTO LAYER2
+  ...INCLUDE YES
+ ..NAME "layer_03"
+  ...MAPPEDTO LAYER3
+  ...INCLUDE YES
+ ..NAME "layer_04"
+  ...MAPPEDTO LAYER4
+  ...INCLUDE YES
+ ..NAME "layer_05"
+  ...MAPPEDTO LAYER5
+  ...INCLUDE YES
+ ..NAME "layer_06"
+  ...MAPPEDTO LAYER6
+  ...INCLUDE YES
+ ..NAME "layer_07"
+  ...MAPPEDTO LAYER7
+  ...INCLUDE YES
+ ..NAME "layer_08"
+  ...MAPPEDTO LAYER8
+  ...INCLUDE YES
+ ..NAME "layer_09"
+  ...MAPPEDTO LAYER9
+  ...INCLUDE YES
+ ..NAME "layer_bottom"
+  ...MAPPEDTO LAYER10
+  ...INCLUDE YES
+ ..NAME "ddt"
+  ...INCLUDE YES
+ ..NAME "assemt"
+  ...INCLUDE YES
+ ..NAME "assemb"
+  ...INCLUDE YES
+ ..NAME "spt"
+  ...INCLUDE YES
+ ..NAME "spb"
+  ...INCLUDE YES
+.EPLAYERS
+.APLAYERS
+ ..EXPORT_AP NO
+.PACKAGE_OUTLINE "Placement Outline"
+.PINS_NFP_REMOVAL "None"
+.VIAS_NFP_REMOVAL "None"
+.REMOVE_EDA_NETS NO
+.REMOVE_CADNET_NETLIST NO
+.NEUTRALIZE_NETS NO
+.UNITS METRIC
+.ODBPP_VERSION 8.0
+.READ_DRC_FEATURES YES
+ ..DRCFEATURE ".drc_comp_keepout_lyr"
+  ...DRCFEATURELAYER "drc_comp"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_plane_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_route_keepin_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_tp_keepout_lyr"
+  ...DRCFEATURELAYER "drc_tp"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_trace_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_via_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_rule_area_lyr"
+  ...DRCFEATURELAYER "fab_drc"
+  ...PROCESSFEATURE NO
+.ROUND_CORNERS YES
+.IGNORE_COMPONENT_LAYOUT NO
+.FLAT_RF_NET NO
+.COMPRESS YES
+.ODBPP_INSIDE NO
+.EXPORT_IPC2581 NO
+.GEN_SILK_DATA YES
+.PART_NUMBER NO
+.BOARD_OUTLINE YES
+.NPI_NET_TYPES NO
+.APPEND NO
+.GEN_SEP_VAR_DATA NO
+.GEN_ACT_VAR_DATA YES
+.OutputDirectory ".\\Output\\ODBpp\\"
+.OutputJobName "dunemibmodule"
+.LogFilePath ".\\LogFiles"

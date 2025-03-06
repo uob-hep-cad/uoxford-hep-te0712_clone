@@ -1,0 +1,2979 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:22 AM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:40 AM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:27 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:28 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:34 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:37 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:38 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:38 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:41 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:43 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:44 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:44 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:44 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:46 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:47 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:47 PM Monday, February 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:28 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:28 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:02 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:03 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:16 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:17 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:21 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:35 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:35 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:41 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:41 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:42 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:42 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:47 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:19 AM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:58 PM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:00 PM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:01 PM Tuesday, February 07, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:09 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:35 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:38 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:52 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:53 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:57 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:58 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:37 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:41 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:43 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:47 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:48 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:52 AM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:36 PM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:10 PM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:11 PM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:11 PM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:12 PM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:51 PM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:51 PM Wednesday, February 08, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      06:55 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:35 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:36 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:19 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:28 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:28 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:29 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:30 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:30 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:31 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:49 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:56 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:56 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:57 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:50 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:51 AM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:38 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:47 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:57 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:13 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:24 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:24 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:29 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:27 PM Thursday, February 09, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:39 AM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:46 AM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:33 PM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:33 PM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:34 PM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:35 PM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:41 PM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:30 PM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:30 PM Monday, February 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:55 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:56 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:03 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:11 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:13 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:59 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:02 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:19 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:31 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:31 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:32 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:48 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:51 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:51 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:51 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:56 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:56 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:56 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:57 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:58 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:59 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:59 AM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:42 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:48 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:55 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:07 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:37 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:42 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:42 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:45 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:48 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:04 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:08 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:25 PM Tuesday, February 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:52 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:52 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:53 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:59 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      07:59 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:00 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:01 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:01 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:02 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:02 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:03 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:03 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:07 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:08 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:09 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:09 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:09 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:11 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:11 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:12 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:50 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:50 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:53 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:54 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:00 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:00 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:30 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:34 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:35 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:35 AM Wednesday, February 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:05 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:12 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:46 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:11 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:22 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:30 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:17 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:18 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:23 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:25 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:33 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:11 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:15 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:28 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:28 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:29 AM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:14 PM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:23 PM Friday, February 17, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:02 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:02 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:17 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:44 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:45 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:46 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:47 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:33 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:35 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:35 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:35 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:36 AM Monday, February 20, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:43 AM Friday, February 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:46 AM Friday, February 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:47 AM Friday, February 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:53 AM Friday, February 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       07:08 AM Monday, February 27, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:25 AM Monday, March 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:26 AM Monday, March 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:27 AM Monday, March 06, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:47 AM Tuesday, March 14, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:23 PM Tuesday, March 21, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:47 AM Wednesday, March 22, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:48 AM Wednesday, March 22, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:48 AM Wednesday, March 22, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:34 AM Wednesday, March 22, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:11 PM Wednesday, March 22, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:13 PM Wednesday, March 22, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:19 PM Wednesday, March 22, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:29 AM Friday, March 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:29 AM Friday, March 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:43 AM Friday, March 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:08 PM Friday, March 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:13 PM Friday, March 24, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:51 AM Tuesday, March 28, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:00 AM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:11 AM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:28 AM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:37 AM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:00 AM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:00 AM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:19 PM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:42 PM Tuesday, April 04, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:12 AM Wednesday, April 05, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:51 AM Tuesday, April 11, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:12 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:42 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:00 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:06 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:37 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:52 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:56 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:58 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:00 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:54 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:57 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:58 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:58 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:02 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:04 AM Thursday, April 13, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:56 AM Wednesday, May 03, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:23 PM Wednesday, May 03, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:25 PM Wednesday, May 03, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:27 PM Wednesday, May 03, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:29 PM Wednesday, May 03, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:33 PM Wednesday, May 03, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:00 PM Thursday, June 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:05 PM Thursday, June 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:08 AM Wednesday, June 21, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:26 AM Wednesday, June 21, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:07 AM Wednesday, June 28, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------

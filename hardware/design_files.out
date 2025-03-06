@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Netlister>
+    <defaults>
+        <language value = "VHDL" />
+        <library  value = "" />
+        <dialect value = "VHDL93" />
+    </defaults>
+    <renamedLabels>
+    </renamedLabels>
+    <vmaps>
+    </vmaps>
+    <models>
+        <model>
+            <file     value = "Y:/Users/CEG/Central Electronics/Projects/Hastingsp/MENTOR/DUNE/MIB_Module/genhdl/DxDesigner/designs/MIB_FPGA_Module/MIB_FPGA_Module.vhd" />
+            <library  value = "" />
+            <language value = "" />
+            <kind     value = "Exported" />
+        </model>
+        <model>
+            <file     value = "Y:/Users/CEG/Central Electronics/Projects/Hastingsp/MENTOR/DUNE/MIB_Module/genhdl/DxDesigner/designs/MIB_FPGA_Module/MIB_FPGA_Module_cfg.vhd" />
+            <library  value = "" />
+            <language value = "" />
+            <kind     value = "Exported" />
+        </model>
+    </models>
+</Netlister>

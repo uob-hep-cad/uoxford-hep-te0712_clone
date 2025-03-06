@@ -1,0 +1,20 @@
+SECTION Integration
+KEY 1400Translation "1"
+KEY ProjectFile "..\MIB_Module.prj"
+ENDSECTION
+SECTION DesignData
+KEY Platform "NT"
+KEY UstationVersion "05.05.02.23 "
+KEY DesignVersion "99.00.00"
+KEY DesignFileLastBlock "43"
+KEY DesignFileLastByte "0"
+KEY CellDisplay "0"
+KEY BuriedComponents "0"
+KEY iCDBSessionID "1342"
+KEY DesignName "MIB_Module"
+KEY RootBlock "MIB_FPGA_Module"
+ENDSECTION
+SECTION Planes
+LIST PlaneSections
+ENDLIST
+ENDSECTION

@@ -1,0 +1,13 @@
+Line :5
+Error parsing layer stackup settings file, "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Line :5
+Error parsing layer stackup settings file, "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Line :5
+Error parsing layer stackup settings file, "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Expected .penwidth argument.Line :5
+Error parsing layer stackup settings file, "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Expected .penwidth argument.Expected .include_master argument.Line :5
+Error parsing layer stackup settings file, "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Expected .penwidth argument.Expected .include_master argument.Expected .multiple_user_layers argument.
+Error, There were 5 Drill Preference errors detected
+  in file "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\Config\LayerStackupSettings.hkp"

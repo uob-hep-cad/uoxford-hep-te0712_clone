@@ -1,0 +1,126 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Wed Jun 28 08:25:49 2023}
+}
+{Environment
+	{ViewMetric	Yes}
+}
+{Layers
+	{Layer  1
+		{File		14_SilkscreenBottom.gdo}
+		{LyrName	14_SilkscreenBottom}
+		{Visibility	On}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		13_SoldermaskBottom.gdo}
+		{LyrName	13_SoldermaskBottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  3
+		{File		12_Layer10Bottom.gdo}
+		{LyrName	12_Layer10Bottom}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+	{Layer  4
+		{File		11_Layer9.gdo}
+		{LyrName	11_Layer9}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer  5
+		{File		10_Layer8.gdo}
+		{LyrName	10_Layer8}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer  6
+		{File		09_Layer7.gdo}
+		{LyrName	09_Layer7}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer  7
+		{File		08_Layer6.gdo}
+		{LyrName	08_Layer6}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer  8
+		{File		07_Layer5.gdo}
+		{LyrName	07_Layer5}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer  9
+		{File		06_Layer4.gdo}
+		{LyrName	06_Layer4}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer 10
+		{File		05_Layer3.gdo}
+		{LyrName	05_Layer3}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer 11
+		{File		04_Layer2.gdo}
+		{LyrName	04_Layer2}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer 12
+		{File		03_Layer1Top.gdo}
+		{LyrName	03_Layer1Top}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+	{Layer 13
+		{File		02_SoldermaskTop.gdo}
+		{LyrName	02_SoldermaskTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 14
+		{File		01_SilkscreenTop.gdo}
+		{LyrName	01_SilkscreenTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 15
+		{File		00_Detail.gdo}
+		{LyrName	00_Detail}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.4}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			No}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}

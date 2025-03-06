@@ -1,0 +1,23 @@
+--------------------
+command line passed in is:
+ C:\MentorGraphics\EEVX.2.12\SDD_HOME\iCDB\win64\bin\icdb2vhdl.exe -icdbSnapshot=DxD -icdbPath=Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database -log=LogFiles\VHDLNetlister.log -block=MIB_FPGA_Module -level=STD -vhdl93 -savefiles=design_files.out -out=Y:/Users/CEG/Central Electronics/Projects/Hastingsp/MENTOR/DUNE/MIB_Module/genhdl/DxDesigner/designs/MIB_FPGA_Module/MIB_FPGA_Module.vhd -pincomp=Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\speccomp.ini
+--------------------
+
+icdb2vhdl - iCDB to VHDL Netlister. Version 1.281_$Revision: 1151935 $ build 21514327
+Unpublished work. Copyright 2022 Siemens
+
+This material contains trade secrets or otherwise confidential
+information owned by Siemens Industry Software Inc.
+or its affiliates (collectively, 'SISW'), or its licensors.
+Access to and use of this information is strictly limited
+as set forth in the Customer's applicable agreements with SISW.
+
+Using icdb Snapshot 'DxD'
+Creating log file 'LogFiles\VHDLNetlister.log'
+Using output path 'Y:/Users/CEG/Central Electronics/Projects/Hastingsp/MENTOR/DUNE/MIB_Module/genhdl/DxDesigner/designs/MIB_FPGA_Module/MIB_FPGA_Module.vhd'
+Opening design 'Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database'
+Opened database Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database
+Writing Y:/Users/CEG/Central Electronics/Projects/Hastingsp/MENTOR/DUNE/MIB_Module/genhdl/DxDesigner/designs/MIB_FPGA_Module\MIB_FPGA_Module_cfg.vhd
+Writing Y:/Users/CEG/Central Electronics/Projects/Hastingsp/MENTOR/DUNE/MIB_Module/genhdl/DxDesigner/designs/MIB_FPGA_Module/MIB_FPGA_Module.vhd
+iCDB to VHDL Netlister complete
+No errors found.

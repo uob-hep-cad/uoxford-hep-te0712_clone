@@ -1,0 +1,16 @@
+Xpedition Layout Version: 122.0.2169.7105
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\MentorGraphics\EEVX.2.12\SDD_HOME\Valor_NPI\env"
+HOMEDRIVE = "H:"
+HOMEPATH = "\"
+LM_LICENSE_FILE = "C:\MentorGraphics\PADSProVX.2.10\3146823_authcodes.txt"
+MGC_HOME = "C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\EEVX.2.12\SDD_HOME\xe\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\wg\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common3D\win64\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\MATLAB\R2021a\runtime\win64;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\PuTTY\;C:\Users\hastingsp\AppData\Local\Microsoft\WindowsApps;"
+SDD_HOME = "C:\MentorGraphics\EEVX.2.12\SDD_HOME"
+TEMP = "C:\Users\HASTIN~1\AppData\Local\Temp"
+TMP = "C:\Users\HASTIN~1\AppData\Local\Temp"

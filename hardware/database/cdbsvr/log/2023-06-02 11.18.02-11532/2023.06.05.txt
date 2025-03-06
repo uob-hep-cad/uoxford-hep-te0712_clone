@@ -1,0 +1,57 @@
+[2023.06.05 11:25:50] [4327m.46s.914ms] [0] DFAMT: WARNING: Slow file server access time: 21764 us
+[2023.06.05 11:26:17] [4328m.13s.885ms] [0] DFAMT: Optimal file server access time: 263 us
+[2023.06.05 14:26:51] [4508m.48s.050ms] [1] SC[1298]: UnRegistered sub-client [SystemDesignDll] with ID [13] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:51] [4508m.48s.162ms] [1] SC[1298]: UnRegistered sub-client [DesignSearcher2] with ID [14] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.214ms] [1] SC[1298]: UnRegistered sub-client [xprob] with ID [21] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.359ms] [1] SC[1298]: UnRegistered sub-client [GlobalNetAliasUpdater_270771488] with ID [41] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.360ms] [1] SC[1298]: UnRegistered sub-client [BlockCacheDxD:681194128] with ID [40] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.361ms] [1] SC[1298]: UnRegistered sub-client [ObjectHolder_275448512] with ID [39] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.361ms] [1] SC[1298]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:681141648] with ID [42] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.367ms] [1] SC[1298]: UnRegistered sub-client [Navigator] with ID [23] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.367ms] [1] SC[1298]: UnRegistered sub-client [FFSSelListener] with ID [28] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.388ms] [1] SC[1298]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [27] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.477ms] [1] SC[1298]: UnRegistered sub-client [FFSearch_RBHost] with ID [26] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.490ms] [1] SC[1298]: UnRegistered sub-client [MyParts] with ID [32] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.493ms] [1] SC[1298]: UnRegistered sub-client [toolboxes] with ID [34] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.537ms] [1] SC[1298]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.538ms] [1] SC[1298]: UnRegistered sub-client [PartReplaceUtils] with ID [19] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:52] [4508m.48s.538ms] [1] SC[1298]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [20] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.537ms] [1] SC[1298]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:271258480] with ID [16] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.537ms] [1] SC[1298]: UnRegistered sub-client [Core::NetFlatData-27691] with ID [11] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.538ms] [1] SC[1298]: UnRegistered sub-client [BlockCacheDxD:445397936] with ID [10] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.538ms] [1] SC[1298]: UnRegistered sub-client [Core::DesignListener-445397696-0] with ID [9] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.539ms] [1] SC[1298]: UnRegistered sub-client [SheetConnectorsCacheDxD:1685705760] with ID [17] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.540ms] [1] SC[1298]: UnRegistered sub-client [NetsNamesCollectorDxD:1685705760] with ID [18] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.543ms] [1] SC[1298]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.544ms] [1] SC[1298]: UnRegistered sub-client [DxD] with ID [1] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.555ms] [1] SC[1298]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.567ms] [1] SC[1298]: UnRegistered sub-client [OutputWindow] with ID [24] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.578ms] [1] SC[1298]: UnRegistered sub-client [DxDbSearch] with ID [35] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.587ms] [1] SC[1298]: UnRegistered sub-client [SAE] with ID [29] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.600ms] [1] SC[1298]: UnRegistered sub-client [CCZAddin] with ID [30] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:53] [4508m.49s.606ms] [1] SC[1298]: UnRegistered sub-client [DxThumbnails] with ID [31] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:55] [4508m.51s.870ms] [1] SC[1298]: UnRegistered sub-client [PinsList] with ID [33] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:55] [4508m.51s.910ms] [1] SC[1298]: UnRegistered sub-client [PlaceDevice] with ID [25] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:55] [4508m.52s.009ms] [1] SC[1298]: UnRegistered sub-client [HdlProject] with ID [15] for session ID [1298] host [ELWT2] user [hastingsp] process ID [9700]
+[2023.06.05 14:26:55] [4508m.52s.104ms] [1] CMT: Removed client [1298]
+[2023.06.05 14:26:55] [4508m.52s.104ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2023.06.05 14:26:57] [4508m.53s.192ms] [0] CMT: Starting server auto-close
+[2023.06.05 14:26:57] [4508m.53s.301ms] [0] S: Closing server
+[2023.06.05 14:26:57] [4508m.53s.457ms] [0] iCDB Server PI: Closing plugins
+[2023.06.05 14:26:57] [4508m.53s.458ms] [0] iCDB Server PI: Plugins closed
+[2023.06.05 14:26:57] [4508m.53s.458ms] [0] iCDB Server PI: Unloading database
+[2023.06.05 14:26:57] [4508m.53s.458ms] [0] iCDB Server PI: Saving storage
+[2023.06.05 14:26:57] [4508m.53s.458ms] [0] iCDB Server PI: Closing database
+[2023.06.05 14:26:57] [4508m.53s.497ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[98%]
+[2023.06.05 14:26:57] [4508m.53s.497ms] [1] iCDB Server PI: Stats: Database file size [500496 (488.8 kB)]
+[2023.06.05 14:26:57] [4508m.53s.523ms] [0] iCDB Server PI: Database closed
+[2023.06.05 14:26:57] [4508m.53s.523ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [243632] ticks
+[2023.06.05 14:26:57] [4508m.53s.523ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [24363] microseconds
+[2023.06.05 14:26:57] [4508m.53s.523ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [102]
+[2023.06.05 14:26:57] [4508m.53s.523ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [4186] commands per second
+[2023.06.05 14:26:57] [4508m.53s.523ms] [1] iCDB Server PI: Stats: Mem[23867392]
+[2023.06.05 14:26:57] [4508m.53s.523ms] [1] iCDB Server PI: Stats: MemPeak[41660416]
+[2023.06.05 14:26:57] [4508m.53s.538ms] [0] Single file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\icdb.dat] closed with size [500496 (488.8 kB)]
+[2023.06.05 14:26:58] [4508m.54s.286ms] [0] MWT: Destroy the shutdown block reason.
+[2023.06.05 14:26:58] [4508m.54s.287ms] [0] MWT: STOP
+[2023.06.05 14:26:58] [4508m.54s.288ms] [0] S: STOP

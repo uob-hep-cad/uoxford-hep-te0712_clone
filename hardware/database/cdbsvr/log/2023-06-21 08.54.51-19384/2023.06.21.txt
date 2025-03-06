@@ -1,0 +1,216 @@
+[2023.06.21 08:54:51] [0000m.00s.034ms] [0] WELCOME
+[2023.06.21 08:54:51] [0000m.00s.080ms] [1] iCDB Server ver.2.212, 0lZoFgSrvpc01NWN9kUtqA, build:21696686 created 2022-11-16 19:52:41, sources stamp:0lZoFgSrvpc01NWN9kUtqA
+[2023.06.21 08:54:51] [0000m.00s.080ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2023.06.21 08:54:51] [0000m.00s.080ms] [1] Base flow version [VX.2.12]
+[2023.06.21 08:54:51] [0000m.00s.080ms] [1] Install Id [2499080], Flow Id [X-ENTP VX.2.12], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.12], Exact Access Date [2022/08/01]
+[2023.06.21 08:54:51] [0000m.00s.080ms] [1] UPDATE Install Info, Install Id [2533498], UPDATE Name [Xpedition Enterprise X-ENTP VX.2.12 - Update 2]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] Machine [ELWT2]  IP [10.140.0.61,127.0.0.1]  User [hastingsp]  PID [19384]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] Operating system [Microsoft Windows 10 Enterprise Edition, 64-bit (build 19045)]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] Current working dir [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] PATH [C:\MentorGraphics\EEVX.2.12\SDD_HOME\xe\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\wg\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common3D\win64\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\MATLAB\R2021a\runtime\win64;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\PuTTY\;C:\Users\hastingsp\AppData\Local\Microsoft\WindowsApps;]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.12\SDD_HOME] on file system [NTFS]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] SDD_PLATFORM [win64]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] WDIR [C:\WDIR\EEVX.2.12;C:\MentorGraphics\EEVX.2.12\SDD_HOME\standard;]
+[2023.06.21 08:54:51] [0000m.00s.097ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.12\iCDB] on file system [NTFS]
+[2023.06.21 08:54:51] [0000m.00s.098ms] [2] S: Loading config files
+[2023.06.21 08:54:51] [0000m.00s.109ms] [1] Config file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\cdbsvr\Server.cfg] not found
+[2023.06.21 08:54:51] [0000m.00s.114ms] [3] S: Config loaded
+[2023.06.21 08:54:51] [0000m.00s.165ms] [0] S: Project path [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database] on file system [NTFS]
+[2023.06.21 08:54:51] [0000m.00s.165ms] [0] S: Project global path [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database] on file system [NTFS]
+[2023.06.21 08:54:51] [0000m.00s.166ms] [0] S: Project file (.prj) path [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj] on file system [UNKNOWN]
+[2023.06.21 08:54:51] [0000m.00s.166ms] [0] S: Project file (.prj) local path [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj] on file system [NTFS]
+[2023.06.21 08:54:51] [0000m.00s.169ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2023.06.21 08:54:51] [0000m.00s.169ms] [0] S: Single-user mode (auto)
+[2023.06.21 08:54:51] [0000m.00s.169ms] [0] S: Event polling mode autodetection
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] S: Started up automatically by iCDB Client: ELWT2:hastingsp:11548
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] S: Auto close mode
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] S: Database ID [b853-a3c2-3782-12e4-687a-0e3c-87a0-e360-6822-ee3b-69e5-e5e5]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: BEGIN dumping
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: Local -> global path prefix list
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\ELWT2\print$]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [H:\] -> [\\ppfs6.physics.ox.ac.uk\CEG\HastingsP\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [O:\] -> [\\physics.ox.ac.uk\dfs\options\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [S:\] -> [\\physics.ox.ac.uk\dfs\sharable\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [Y:\] -> [\\physics.ox.ac.uk\dfs\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: Global -> local path prefix list
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [\\ppfs6.physics.ox.ac.uk\CEG\HastingsP\] -> [H:\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [\\physics.ox.ac.uk\dfs\sharable\] -> [S:\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [\\physics.ox.ac.uk\dfs\options\] -> [O:\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [\\physics.ox.ac.uk\dfs\] -> [Y:\]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: [\\ELWT2\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] PathTranslator: END dumping
+[2023.06.21 08:54:51] [0000m.00s.171ms] [0] S: START
+[2023.06.21 08:54:51] [0000m.00s.189ms] [0] S: Server startup lock file created
+[2023.06.21 08:54:51] [0000m.00s.189ms] [0] S: Listening for client connections on port [10001]
+[2023.06.21 08:54:51] [0000m.00s.190ms] [0] S: Server network ID [ELWT2:10.140.0.61,ELWT2,ELWT2.physics.ox.ac.uk:10001]
+[2023.06.21 08:54:51] [0000m.00s.190ms] [0] S: Server GUID [79c8-4646-5c58-22a5-bcca-2941-dca2-9460-e3cf-de3b-69e5-e5e5]
+[2023.06.21 08:54:51] [0000m.00s.190ms] [0] S: Project GUID [b853-a3c2-3782-12e4-687a-0e3c-87a0-e360-6822-ee3b-69e5-e5e5]
+[2023.06.21 08:54:51] [0000m.00s.226ms] [0] S: Wrote data to server address file
+[2023.06.21 08:54:51] [0000m.00s.229ms] [0] S: Server startup lock file removed
+[2023.06.21 08:54:51] [0000m.00s.229ms] [1] ProjectBackupManager: Setting project file (.prj) path: [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj]
+[2023.06.21 08:55:00] [0000m.08s.677ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2023.06.21 08:55:00] [0000m.08s.677ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.12\SDD_HOME\iCDB\win64\bin]
+[2023.06.21 08:55:00] [0000m.08s.677ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\bin]
+[2023.06.21 08:55:00] [0000m.08s.678ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2023.06.21 08:55:00] [0000m.08s.678ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2023.06.21 08:55:00] [0000m.08s.678ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2023.06.21 08:55:00] [0000m.08s.678ms] [0] S: Local disc access time: 73 us
+[2023.06.21 08:55:00] [0000m.08s.678ms] [0] S: File server access time: 144 us
+[2023.06.21 08:55:00] [0000m.08s.751ms] [0] Single file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\icdb.dat] size [403776 (394.3 kB)]
+[2023.06.21 08:55:00] [0000m.08s.753ms] [1] Single file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\icdb.dat] opened in read-write mode
+[2023.06.21 08:55:00] [0000m.08s.756ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.06.21 08:55:00] [0000m.08s.757ms] [0] Database GUARD OK: [403776]
+[2023.06.21 08:55:00] [0000m.08s.773ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.06.21 08:55:00] [0000m.08s.773ms] [0] Database GUARD OK: [403776]
+[2023.06.21 08:55:00] [0000m.08s.774ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.06.21 08:55:00] [0000m.08s.774ms] [0] Database GUARD OK: [403776]
+[2023.06.21 08:55:00] [0000m.08s.774ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.06.21 08:55:00] [0000m.08s.774ms] [0] Database GUARD OK: [403776]
+[2023.06.21 08:55:00] [0000m.08s.775ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.06.21 08:55:00] [0000m.08s.775ms] [0] Database GUARD OK: [403776]
+[2023.06.21 08:55:00] [0000m.08s.775ms] [0] SingleFile: [79ff-804a-2819-db2b] SFI version check [1009] [1009]
+[2023.06.21 08:55:00] [0000m.08s.786ms] [0] SingleFile: [79ff-804a-2819-db2b] Database SFI header has been read in [11ms 78us]
+[2023.06.21 08:55:00] [0000m.08s.789ms] [0] iCDB Server PI: Server & plugin session [1312]
+[2023.06.21 08:55:00] [0000m.08s.790ms] [0] iCDB Server PI: Opening database [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database]
+[2023.06.21 08:55:00] [0000m.08s.790ms] [0] iCDB Server PI: Database [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database] opened
+[2023.06.21 08:55:00] [0000m.08s.883ms] [0] iCDB Database: Checking existence of constraint definitions
+[2023.06.21 08:55:00] [0000m.08s.883ms] [0] iCDB Database: Checking constraint definitions version
+[2023.06.21 08:55:00] [0000m.08s.922ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.77;user.cns=c416-e5d0-d59d-600b-ca44-4b32-b444-b360-2c62-ee3b-69e5-e5e5] up to date
+[2023.06.21 08:55:00] [0000m.08s.992ms] [0] iCDB Server PI: Initializing plugins
+[2023.06.21 08:55:00] [0000m.08s.992ms] [0] iCDB Server PI: Plugins initialized
+[2023.06.21 08:55:00] [0000m.08s.992ms] [0] S: iCDB database loaded
+[2023.06.21 08:55:00] [0000m.08s.993ms] [0] S: Starting threads
+[2023.06.21 08:55:00] [0000m.08s.993ms] [0] BT: Listening for broadcast messages on port [10000]
+[2023.06.21 08:55:00] [0000m.08s.994ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2023.06.21 08:55:00] [0000m.08s.995ms] [0] IT: Session [1313] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [11548] created
+[2023.06.21 08:55:00] [0000m.08s.998ms] [0] MWT: WindowProc: WM_NCCREATE
+[2023.06.21 08:55:00] [0000m.08s.999ms] [1] SC[1313]: Registered sub-client [Expedition PCB_601926109] with ID [1] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:00] [0000m.09s.101ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 08:55:00] [0000m.09s.216ms] [1] SC[1313]: Registered sub-client [EEVM_EEVM_973218512] with ID [2] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:00] [0000m.09s.242ms] [1] SC[1313]: UnRegistered sub-client [EEVM_EEVM_973218512] with ID [2] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:00] [0000m.09s.249ms] [1] SC[1313]: Registered sub-client [EEVM_EEVM_973218512] with ID [3] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:00] [0000m.09s.263ms] [1] SC[1313]: UnRegistered sub-client [EEVM_EEVM_973218512] with ID [3] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:03] [0000m.12s.132ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_601938578] with ID [4] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:03] [0000m.12s.140ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_601938578] with ID [4] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:05] [0000m.14s.129ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_601940578] with ID [5] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:05] [0000m.14s.138ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_601940578] with ID [5] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:08] [0000m.17s.187ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_601943640] with ID [6] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:08] [0000m.17s.232ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_601943640] with ID [6] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:09] [0000m.17s.793ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_601944250] with ID [7] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:09] [0000m.17s.830ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_601944250] with ID [7] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:09] [0000m.17s.959ms] [1] SC[1313]: Registered sub-client [ExpeditionCrossProber] with ID [8] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:09] [0000m.17s.964ms] [1] SC[1313]: Registered sub-client [StartServerClient1a84] with ID [9] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:09] [0000m.17s.964ms] [1] SC[1313]: UnRegistered sub-client [StartServerClient1a84] with ID [9] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:11] [0000m.19s.649ms] [1] PrjBackupMgr: Successfully created Project Backup [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-06-21 08.55.00 - auto.zip] with GUID [f405-6e9e-58bb-a33a-4dca-294a-dca2-9460-ab72-ee3b-69e5-e5e5]
+[2023.06.21 08:55:11] [0000m.19s.678ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[a681-4995-f0e9-1a3a-32af-9749-2af9-7460-6c8e-de3b-69e5-e5e5] CreationTime[Friday, June 02, 2023 14:18:11] Type[Autosave] Creator[iCDB Server (2023-06-02 11.18.02-11532)] ApplicationName[iCDB Server (2023-06-02 11.18.02-11532)] UserName[hastingsp] MachineName[ELWT2] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.12; Xpedition Enterprise X-ENTP VX.2.12 - Update 2] FlowId[EEVX.2.12] GBSInstallId[2499080; 2533498] GBSBuildId[21696686] IcdbVersion[4200] ReferenceLogFilePath[] BackupFilePath[Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-06-02 15.18.11 - auto.zip] BackupFileSize[12826519] Persistent[FALSE]
+[2023.06.21 08:55:11] [0000m.19s.965ms] [0] PrjBackupMgr: Project Backup file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-06-02 15.18.11 - auto.zip] with GUID [a681-4995-f0e9-1a3a-32af-9749-2af9-7460-6c8e-de3b-69e5-e5e5] removed
+[2023.06.21 08:55:11] [0000m.19s.981ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[f405-6e9e-58bb-a33a-4dca-294a-dca2-9460-ab72-ee3b-69e5-e5e5] CreationTime[Wednesday, June 21, 2023 07:55:00] Type[Autosave] Creator[iCDB Server (2023-06-21 08.54.51-19384)] ApplicationName[iCDB Server (2023-06-21 08.54.51-19384)] UserName[hastingsp] MachineName[ELWT2] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.12; Xpedition Enterprise X-ENTP VX.2.12 - Update 2] FlowId[EEVX.2.12] GBSInstallId[2499080; 2533498] GBSBuildId[21696686] IcdbVersion[4200] ReferenceLogFilePath[] BackupFilePath[Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-06-21 08.55.00 - auto.zip] BackupFileSize[12866131] Persistent[FALSE]
+[2023.06.21 08:55:12] [0000m.20s.775ms] [1] SC[1313]: Registered sub-client [XPDAddin] with ID [10] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:12] [0000m.20s.776ms] [1] SC[1313]: UnRegistered sub-client [XPDAddin] with ID [10] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:55:30] [0000m.38s.757ms] [0] DFAMT: File server access time: 202 us
+[2023.06.21 08:56:12] [0001m.21s.262ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602007703] with ID [11] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:12] [0001m.21s.276ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602007703] with ID [11] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:12] [0001m.21s.365ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602007812] with ID [12] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:12] [0001m.21s.408ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602007812] with ID [12] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:12] [0001m.21s.436ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602007890] with ID [13] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:12] [0001m.21s.448ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602007890] with ID [13] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:12] [0001m.21s.538ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602007984] with ID [14] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:13] [0001m.21s.633ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602007984] with ID [14] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:13] [0001m.21s.727ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602008171] with ID [15] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:13] [0001m.21s.765ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602008171] with ID [15] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:13] [0001m.21s.812ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602008265] with ID [16] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:13] [0001m.21s.828ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602008265] with ID [16] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:13] [0001m.21s.911ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602008359] with ID [17] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:13] [0001m.21s.948ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602008359] with ID [17] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:27] [0001m.35s.955ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602022390] with ID [18] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:27] [0001m.35s.978ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602022390] with ID [18] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:27] [0001m.36s.110ms] [1] SC[1313]: Registered sub-client [JobPrefsDBPI_602022562] with ID [19] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:27] [0001m.36s.164ms] [1] SC[1313]: UnRegistered sub-client [JobPrefsDBPI_602022562] with ID [19] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 08:56:29] [0001m.38s.002ms] [0] IT: Session [1314] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [7536] created
+[2023.06.21 08:56:29] [0001m.38s.003ms] [1] SC[1314]: Registered sub-client [JobPrefsDBPI_602024328] with ID [1] for session ID [1314] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:29] [0001m.38s.054ms] [1] CMT: There are [2] clients now: 1313, 1314
+[2023.06.21 08:56:29] [0001m.38s.064ms] [1] SC[1314]: UnRegistered sub-client [JobPrefsDBPI_602024328] with ID [1] for session ID [1314] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:29] [0001m.38s.163ms] [1] CMT: Removed client [1314]
+[2023.06.21 08:56:29] [0001m.38s.163ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 08:56:30] [0001m.38s.595ms] [0] IT: Session [1315] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [7536] created
+[2023.06.21 08:56:30] [0001m.38s.596ms] [1] SC[1315]: Registered sub-client [JobPrefsDBPI_602025000] with ID [1] for session ID [1315] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:30] [0001m.38s.601ms] [1] CMT: There are [2] clients now: 1313, 1315
+[2023.06.21 08:56:30] [0001m.38s.624ms] [1] SC[1315]: UnRegistered sub-client [JobPrefsDBPI_602025000] with ID [1] for session ID [1315] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:30] [0001m.38s.710ms] [1] CMT: Removed client [1315]
+[2023.06.21 08:56:30] [0001m.38s.710ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 08:56:30] [0001m.39s.267ms] [0] IT: Session [1316] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [7536] created
+[2023.06.21 08:56:30] [0001m.39s.268ms] [1] SC[1316]: Registered sub-client [JobPrefsDBPI_602025671] with ID [1] for session ID [1316] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:30] [0001m.39s.324ms] [1] SC[1316]: UnRegistered sub-client [JobPrefsDBPI_602025671] with ID [1] for session ID [1316] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:30] [0001m.39s.367ms] [1] CMT: There are [2] clients now: 1313, 1316
+[2023.06.21 08:56:30] [0001m.39s.367ms] [1] CMT: Removed client [1316]
+[2023.06.21 08:56:30] [0001m.39s.367ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 08:56:31] [0001m.39s.863ms] [0] IT: Session [1317] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [7536] created
+[2023.06.21 08:56:31] [0001m.39s.864ms] [1] SC[1317]: Registered sub-client [JobPrefsDBPI_602026265] with ID [1] for session ID [1317] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:31] [0001m.39s.892ms] [1] SC[1317]: UnRegistered sub-client [JobPrefsDBPI_602026265] with ID [1] for session ID [1317] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:31] [0001m.39s.913ms] [1] CMT: There are [2] clients now: 1313, 1317
+[2023.06.21 08:56:31] [0001m.39s.913ms] [1] CMT: Removed client [1317]
+[2023.06.21 08:56:31] [0001m.39s.913ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 08:56:31] [0001m.40s.457ms] [0] IT: Session [1318] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [7536] created
+[2023.06.21 08:56:31] [0001m.40s.458ms] [1] SC[1318]: Registered sub-client [JobPrefsDBPI_602026843] with ID [1] for session ID [1318] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:31] [0001m.40s.460ms] [1] CMT: There are [2] clients now: 1313, 1318
+[2023.06.21 08:56:31] [0001m.40s.487ms] [1] SC[1318]: UnRegistered sub-client [JobPrefsDBPI_602026843] with ID [1] for session ID [1318] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:31] [0001m.40s.569ms] [1] CMT: Removed client [1318]
+[2023.06.21 08:56:31] [0001m.40s.570ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 08:56:32] [0001m.41s.141ms] [0] IT: Session [1319] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [7536] created
+[2023.06.21 08:56:32] [0001m.41s.142ms] [1] SC[1319]: Registered sub-client [JobPrefsDBPI_602027546] with ID [1] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.209ms] [1] SC[1319]: Registered sub-client [JobPrefsDBPI_602027656] with ID [2] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.221ms] [1] SC[1319]: UnRegistered sub-client [JobPrefsDBPI_602027656] with ID [2] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.226ms] [1] CMT: There are [2] clients now: 1313, 1319
+[2023.06.21 08:56:32] [0001m.41s.351ms] [1] SC[1319]: Registered sub-client [JobPrefsDBPI_602027796] with ID [3] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.532ms] [1] SC[1319]: Registered sub-client [ODB++_602027984] with ID [4] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.545ms] [1] SC[1319]: Registered sub-client [NetClassDBPI_602028000] with ID [5] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.559ms] [1] SC[1319]: UnRegistered sub-client [NetClassDBPI_602028000] with ID [5] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.559ms] [1] SC[1319]: UnRegistered sub-client [ODB++_602027984] with ID [4] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:32] [0001m.41s.580ms] [1] SC[1319]: Registered sub-client [NetPropsDBPI_602028031] with ID [6] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:33] [0001m.41s.592ms] [1] SC[1319]: Registered sub-client [ODB++_602028046] with ID [7] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:33] [0001m.41s.595ms] [1] SC[1319]: UnRegistered sub-client [ODB++_602028046] with ID [7] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:33] [0001m.41s.609ms] [1] SC[1319]: UnRegistered sub-client [NetPropsDBPI_602028031] with ID [6] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:33] [0001m.41s.620ms] [1] SC[1319]: Registered sub-client [ODB++_602028062] with ID [8] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:33] [0001m.41s.621ms] [1] SC[1319]: UnRegistered sub-client [ODB++_602028062] with ID [8] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:38] [0001m.47s.462ms] [1] SC[1319]: Registered sub-client [JobPrefsDBPI_602033906] with ID [9] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:38] [0001m.47s.517ms] [1] SC[1319]: UnRegistered sub-client [JobPrefsDBPI_602033906] with ID [9] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:42] [0001m.51s.101ms] [1] SC[1319]: Registered sub-client [ODB++_602037546] with ID [10] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:42] [0001m.51s.156ms] [1] SC[1319]: Registered sub-client [NetClassDBPI_602037609] with ID [11] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:42] [0001m.51s.169ms] [1] SC[1319]: UnRegistered sub-client [NetClassDBPI_602037609] with ID [11] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:42] [0001m.51s.174ms] [1] SC[1319]: UnRegistered sub-client [ODB++_602037546] with ID [10] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:48] [0001m.56s.823ms] [1] SC[1319]: UnRegistered sub-client [JobPrefsDBPI_602027796] with ID [3] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:48] [0001m.56s.854ms] [1] SC[1319]: UnRegistered sub-client [JobPrefsDBPI_602027546] with ID [1] for session ID [1319] host [ELWT2] user [hastingsp] process ID [7536]
+[2023.06.21 08:56:48] [0001m.56s.866ms] [1] CMT: Removed client [1319]
+[2023.06.21 08:56:48] [0001m.56s.866ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 09:08:44] [0013m.53s.231ms] [1] SC[1313]: Registered sub-client [EEVM_EEVM_24223880] with ID [20] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 09:08:44] [0013m.53s.231ms] [1] SC[1313]: UnRegistered sub-client [EEVM_EEVM_24223880] with ID [20] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 09:08:45] [0013m.53s.761ms] [0] IT: Session [1320] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [13976] created
+[2023.06.21 09:08:45] [0013m.53s.763ms] [1] SC[1320]: Registered sub-client [Expedition_602760093] with ID [1] for session ID [1320] host [ELWT2] user [hastingsp] process ID [13976]
+[2023.06.21 09:08:45] [0013m.53s.866ms] [1] CMT: There are [2] clients now: 1313, 1320
+[2023.06.21 09:08:45] [0013m.54s.279ms] [1] SC[1320]: UnRegistered sub-client [Expedition_602760093] with ID [1] for session ID [1320] host [ELWT2] user [hastingsp] process ID [13976]
+[2023.06.21 09:08:45] [0013m.54s.304ms] [1] CMT: Removed client [1320]
+[2023.06.21 09:08:45] [0013m.54s.304ms] [1] CMT: There are [1] clients now: 1313
+[2023.06.21 09:08:48] [0013m.57s.573ms] [1] SC[1313]: UnRegistered sub-client [ExpeditionCrossProber] with ID [8] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 09:08:52] [0014m.01s.248ms] [1] SC[1313]: UnRegistered sub-client [Expedition PCB_601926109] with ID [1] for session ID [1313] host [ELWT2] user [hastingsp] process ID [11548]
+[2023.06.21 09:08:52] [0014m.01s.304ms] [1] CMT: Removed client [1313]
+[2023.06.21 09:08:52] [0014m.01s.304ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2023.06.21 09:08:54] [0014m.02s.616ms] [0] CMT: Starting server auto-close
+[2023.06.21 09:08:54] [0014m.02s.710ms] [0] S: Closing server
+[2023.06.21 09:08:54] [0014m.02s.882ms] [0] iCDB Server PI: Closing plugins
+[2023.06.21 09:08:54] [0014m.02s.882ms] [0] iCDB Server PI: Plugins closed
+[2023.06.21 09:08:54] [0014m.02s.882ms] [0] iCDB Server PI: Unloading database
+[2023.06.21 09:08:54] [0014m.02s.882ms] [0] iCDB Server PI: Saving storage
+[2023.06.21 09:08:54] [0014m.02s.883ms] [0] iCDB Server PI: Closing database
+[2023.06.21 09:08:54] [0014m.02s.887ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[99%]
+[2023.06.21 09:08:54] [0014m.02s.887ms] [1] iCDB Server PI: Stats: Database file size [425160 (415.2 kB)]
+[2023.06.21 09:08:54] [0014m.02s.916ms] [0] iCDB Server PI: Database closed
+[2023.06.21 09:08:54] [0014m.02s.916ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [139755] ticks
+[2023.06.21 09:08:54] [0014m.02s.916ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [13975] microseconds
+[2023.06.21 09:08:54] [0014m.02s.916ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [45]
+[2023.06.21 09:08:54] [0014m.02s.916ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3219] commands per second
+[2023.06.21 09:08:54] [0014m.02s.916ms] [1] iCDB Server PI: Stats: Mem[23789568]
+[2023.06.21 09:08:54] [0014m.02s.916ms] [1] iCDB Server PI: Stats: MemPeak[35696640]
+[2023.06.21 09:08:54] [0014m.02s.936ms] [0] Single file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\icdb.dat] closed with size [425160 (415.2 kB)]
+[2023.06.21 09:08:55] [0014m.03s.711ms] [0] MWT: Destroy the shutdown block reason.
+[2023.06.21 09:08:55] [0014m.03s.713ms] [0] MWT: STOP
+[2023.06.21 09:08:55] [0014m.03s.713ms] [0] S: STOP

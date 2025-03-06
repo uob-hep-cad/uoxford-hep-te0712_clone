@@ -1,0 +1,30 @@
+Thu Sep 29 12:02:17 2016
+
+Project path: C:\xpcb_intro_training\common\libraries\master-DXD\Templates\Layout\training\keyin.icdb
+
+Env. WDIR: C:\xpcb_intro_training\projects\local_config;C:\xpcb_intro_training\common\config;C:\MentorGraphics\EEVX.2\SDD_HOME\standard;
+WDIRs: 
+	C:\xpcb_intro_training\projects\local_config
+	C:\xpcb_intro_training\common\config
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\xpcb_intro_training\projects\local_config\user.cns=6070-ee11-77ef-f445-4c3f-ce79-c3fc-e750-6648-6530-167b-e733
+	C:\xpcb_intro_training\common\config\user.cns=660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+
+Loaded cns - data stored in database: C:\xpcb_intro_training\projects\local_config\user.cns=6070-ee11-77ef-f445-4c3f-ce79-c3fc-e750-6648-6530-167b-e733;C:\xpcb_intro_training\common\config\user.cns=660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8;C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+Before global upgrade from version: 7.10.56 to version: 7.10.56
+
+BeforeGlobalUpgrade took 9ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 3ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 3ms, 0s
+
+After global upgrade
+Set database cns file versions: ce_ee.cns=7.10.56;user.cns=6070-ee11-77ef-f445-4c3f-ce79-c3fc-e750-6648-6530-167b-e733,660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8
+AfterGlobalUpgrade took 0ms, 0s
+

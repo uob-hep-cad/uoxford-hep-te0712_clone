@@ -1,0 +1,24 @@
+Pin Order,Pin Label,Pin Number,Pin Type,Side,Inverted
+L1,VCCO_0_1,F12,BI,2,false
+L2,VCCO_0_2,T12,BI,2,false
+L3,VCCBATT_0,E12,BI,2,false
+L4,DONE_0,G11,BI,2,false
+R1,GNDADC_0,K9,BI,3,false
+L5,CCLK_0,L12,BI,2,false
+R2,DXN_0,N9,BI,3,false
+R3,DXP_0,N10,BI,3,false
+L6,PROGRAM_B_0,N12,BI,2,false
+L7,TDI_0,R13,BI,2,false
+L8,TMS_0,T13,BI,2,false
+L9,CFGBVS_0,U8,BI,2,false
+L10,M2_0,U9,BI,2,false
+L11,M1_0,U10,BI,2,false
+L12,M0_0,U11,BI,2,false
+L13,INIT_B_0,U12,BI,2,false
+L14,TDO_0,U13,BI,2,false
+L15,TCK_0,V12,BI,2,false
+R4,VCCADC_0,K10,BI,3,false
+R5,VREFN_0,L9,BI,3,false
+R6,VP_0,L10,BI,3,false
+R7,VN_0,M9,BI,3,false
+R8,VREFP_0,M10,BI,3,false

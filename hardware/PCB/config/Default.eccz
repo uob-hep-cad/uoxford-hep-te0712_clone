@@ -1,0 +1,21 @@
+.FILETYPE CCZ_EXPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "03/21/2023 15:29:00"
+
+!  This file contains settings for the most recent CCZ export session
+
+.OUTPUT_FILE "Y:\\Users\\CEG\\Central Electronics\\Projects\\Hastingsp\\MENTOR\\DUNE\\MIB_Module\\PCB\\Output\\MIB_Module.cce"
+.UNITS in
+
+.CELL_LIBRARY 0
+
+.HAZARDS 0
+
+.MATERIALS 1
+
+.UID 0
+
+.INSTANCE_SPECIFIC_CELLS 0
+
+.VARIANTS 1
+

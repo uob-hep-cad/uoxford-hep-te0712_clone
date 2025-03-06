@@ -1,0 +1,63 @@
+#
+#Units
+#
+UNITS=MM
+ID=113
+#
+#Num Features
+#
+F 6
+#
+#Feature symbol names
+#
+$0 r0
+#
+#Feature attribute names
+#
+@0 .pad_usage
+@1 .test_point
+@2 .geometry
+@3 .smd
+@4 .nomenclature
+@5 .string
+@6 .drc_assembly_lyrs
+@7 .drc_board
+@8 .drc_comp_height
+@9 .drc_comp_keepin
+@10 .drc_comp_keepout
+@11 .drc_etch_lyrs
+@12 .drc_etch_lyrs_all
+@13 .drc_etch_lyrs_bit
+@14 .drc_max_height
+@15 .drc_min_height
+@16 .drc_pad_keepout
+@17 .drc_plane_keepout
+@18 .drc_ref_des
+@19 .drc_route_keepin
+@20 .drc_route_keepout
+@21 .drc_tp_keepin
+@22 .drc_tp_keepout
+@23 .drc_trace_keepout
+@24 .drc_via_keepout
+@25 .source_llayer
+@26 .tear_drop
+@27 .artwork
+@28 .pattern_fill
+@29 .hatch
+@30 .mount_hole
+@31 .tooling_hole
+@32 .testprobe_diameter
+@33 .rf
+#
+#Feature attribute text strings
+#
+&0 board_outline
+#
+#Layer features
+#
+A 75 2.999999 71.997551 0 72 2.999999 0 P 0 Y ;25=0;ID=84929
+L 71.997551 0 0 0 0 P 0 ;25=0;ID=84930
+L 0 0 0 39.999999 0 P 0 ;25=0;ID=84931
+L 0 39.999999 72.000001 39.999999 0 P 0 ;25=0;ID=84932
+A 72.000001 39.999999 75.000001 36.999999 72.000001 36.999999 0 P 0 Y ;25=0;ID=84933
+L 75.000001 36.999999 75 2.999999 0 P 0 ;25=0;ID=84934

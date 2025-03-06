@@ -1,0 +1,502 @@
+
+STEP {
+    COL=1
+    ID=0
+    NAME=mib_module
+}
+
+
+LAYER {
+    ROW=1
+    CONTEXT=BOARD
+    TYPE=COMPONENT
+    ID=1
+    NAME=comp_+_top
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=2
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    ID=2
+    NAME=sst
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=3
+    CONTEXT=BOARD
+    TYPE=SOLDER_PASTE
+    ID=3
+    NAME=spt
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=4
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    ID=4
+    NAME=smt
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=5
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    ID=5
+    NAME=layer_top
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=6
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=6
+    NAME=dielectric_01
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=7
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=7
+    NAME=dielectric_02
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=8
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    ID=8
+    NAME=layer_02
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=9
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=9
+    NAME=core_01
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=10
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    ID=10
+    NAME=layer_03
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=11
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=11
+    NAME=dielectric_04
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=12
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=12
+    NAME=dielectric_05
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=13
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    ID=13
+    NAME=layer_04
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=14
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=14
+    NAME=core_02
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=15
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    ID=15
+    NAME=layer_05
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=16
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=16
+    NAME=dielectric_07
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=17
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=17
+    NAME=dielectric_08
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=18
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    ID=18
+    NAME=layer_06
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=19
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=19
+    NAME=core_03
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=20
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    ID=20
+    NAME=layer_07
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=21
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=21
+    NAME=dielectric_10
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=22
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=22
+    NAME=dielectric_11
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=23
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    ID=23
+    NAME=layer_08
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=24
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=24
+    NAME=core_04
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=25
+    CONTEXT=BOARD
+    TYPE=POWER_GROUND
+    ID=25
+    NAME=layer_09
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=26
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=26
+    NAME=dielectric_13
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=27
+    CONTEXT=BOARD
+    TYPE=DIELECTRIC
+    ID=27
+    NAME=dielectric_14
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+    DIELECTRIC_TYPE=Prepreg
+}
+
+
+LAYER {
+    ROW=28
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    ID=28
+    NAME=layer_bottom
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=29
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    ID=29
+    NAME=smb
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=30
+    CONTEXT=BOARD
+    TYPE=SOLDER_PASTE
+    ID=30
+    NAME=spb
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=31
+    CONTEXT=BOARD
+    TYPE=SILK_SCREEN
+    ID=31
+    NAME=ssb
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=32
+    CONTEXT=BOARD
+    TYPE=COMPONENT
+    ID=32
+    NAME=comp_+_bot
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=33
+    CONTEXT=BOARD
+    TYPE=DRILL
+    ID=33
+    NAME=d_1_10
+    POLARITY=POSITIVE
+    START_NAME=layer_top
+    END_NAME=layer_bottom
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=34
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    ID=34
+    NAME=assemt
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=35
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    ID=35
+    NAME=assemb
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=36
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    ID=36
+    NAME=ddt
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+
+LAYER {
+    ROW=37
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    ID=37
+    NAME=odb_board_outline
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+

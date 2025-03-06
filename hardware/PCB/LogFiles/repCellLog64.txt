@@ -1,0 +1,27 @@
+=======================================================================
+Xpedition Layout - Version 122.0.2169.7105
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog64.txt
+
+Mon Mar  6 06:27:07 2023
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Mon Mar  6 06:27:07 2023  ---------------
+
+
+
+
+---------------    Mon Mar  6 06:27:07 2023  ---------------
+
+

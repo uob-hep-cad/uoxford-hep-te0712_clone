@@ -1,0 +1,212 @@
+
+                                    Packager
+                                    --------
+
+                        08:07 AM Wednesday, June 28, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj
+
+
+         Packager     Version: 020806.00
+
+            Commandline is: ""C:\MentorGraphics\EEVX.2.12\SDD_HOME\wg\win64\bin\package.exe"  "-jY:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj" -nMIB_Module -Replace -NoFill"
+
+         The Common Database is at "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database".
+
+         The Root of this design is "MIB_FPGA_Module".
+
+         The Front End Snapshot of this design is "DxD".
+
+         The PCB Design Path of this design is at "Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb".
+
+         The Central Library is at "Y:\Users\CEG\CEG_Software\Mentor\Physics CEG Library\Physics CEG Library.lmc".
+
+         Unable to determine the Disable Repackage status.
+         !Repackaging will be allowed!
+
+         The PDBs listed in the project file will be searched to satisfy the parts
+          requirements of the iCDB and to replace any duplicates found in the
+          Target PDB.
+
+         The AllowAlphaRefDes status indicates that reference
+          designators containing all alpha characters should be deleted
+          and the relevant symbols repackaged.
+
+         The cross mapping of symbol pin names to Part Number pin
+          numbers will be checked for packaged symbols and mapped correctly
+          for unpackaged symbols.
+
+         Properties that have been checked off in the Property Definition Editor
+          found at Library Manager/Common Properties will be checked for value
+          differences between the PartsDB and the non-null properties on symbols.
+         Those properties checked off (other than Part Number)
+          will not be transferred from the PartsDB to symbols.
+         The following properties were checked off in the Property Definition Editor:
+       "Supplier Part Number"
+       "Supplier Name"
+       "Manufacturer Part Number"
+       "Manufacturer Name"
+       "Maximum Latency"
+       "Action_Hyperlink"
+       "Refinement Parent"
+       "Refinement Group"
+       "PinLabel"
+       "System Component"
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "DRAWING_NUMBER"
+       "A2DATE"
+       "A1DATE"
+       "EDATE"
+       "CDATE"
+       "DDATE"
+       "APPROVAL2"
+       "APPROVAL1"
+       "CHECKED_BY"
+       "REVISION_LETTER"
+       "REVISION"
+       "NASA_P/N"
+       "DRAWN_BY"
+       "@SHEETTOTAL"
+       "@SHEET"
+       "@NAME"
+       "@DATETIME"
+       "MOUNTING"
+       "Contacts"
+       "VCE"
+       "HFE_MIN"
+       "Pin Count"
+       "DATA_PORTS"
+       "MEM_TYPE"
+       "ORGANIZATION"
+       "Model Type"
+       "Temp Rating"
+       "JEDEC REF"
+       "VFILE"
+       "ARCH"
+       "VERILOG"
+       "Function"
+       "Vendor Code"
+       "Current"
+       "Power"
+       "Material"
+       "Voltage"
+       "Category"
+       "Status"
+       "Data Sheet"
+       "Pkg Type"
+       "SCH_ZONE"
+       "Sheet"
+       "ENGINEER"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 24
+          Part Numb: ADP1741ACPZ-R7 -> Vend Part: ADP1741ACPZ-R7 
+          Part Numb: Case B Tantalum -> Vend Part: Case B Tantalum 
+          Part Numb: C0201 -> Vend Part: C0201 
+          Part Numb: C0402 -> Vend Part: C0402 
+          Part Numb: C0805 -> Vend Part: C0805 
+          Part Numb: C1206 -> Vend Part: C1206 
+          Part Numb: DS04-254-2-03BK-SMT -> Vend Part: DS04-254-2-03BK-SMT 
+          Part Numb: ECX2-LMV-5CN-125.000-TR -> Vend Part: ECX2-LMV-5CN-125.000-TR 
+          Part Numb: LSHM-130-04.0-L-DV-A-N-K-TR -> Vend Part: LSHM-130-04.0-L-DV-A-N-K-TR 
+          Part Numb: LSHM-150-04.0-L-DV-A-N-K-TR -> Vend Part: LSHM-150-04.0-L-DV-A-N-K-TR 
+          Part Numb: Molex_87832-1420 -> Vend Part: Molex_87832-1420 
+          Part Numb: MPZ0603S121HT000 -> Vend Part: MPZ0603S121HT000 
+          Part Numb: MPZ1608S221ATA00 -> Vend Part: MPZ1608S221ATA00 
+          Part Numb: PMEG2005EL,315 -> Vend Part: PMEG2005EL,315 
+          Part Numb: R0402 -> Vend Part: R0402 
+          Part Numb: R1218 -> Vend Part: R1218 
+          Part Numb: S25FL256SAGBHI200 -> Vend Part: S25FL256SAGBHI200 
+          Part Numb: TE_282834_3 -> Vend Part: TE_282834_3 
+          Part Numb: TPS2116DRLR -> Vend Part: TPS2116DRLR 
+          Part Numb: TPS6283810 -> Vend Part: TPS6283810 
+          Part Numb: XC7A100T-2FGG484C -> Vend Part: XC7A100T-2FGG484C 
+          Part Numb: XFL4012-251ME -> Vend Part: XFL4012-251ME 
+          Part Numb: 2x1 Header -> Vend Part: 2x1 Header 
+          Part Numb: 511BBA74M2500BAG -> Vend Part: 511BBA74M2500BAG 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 169 Symbols:
+             169  ******************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     163 nets were found containing 870 pins
+     160 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+         Packager finished successfully.
+         !THE iCDB IS UP-TO-DATE!
+         
+         An unused pin and gate report has been written to Integration\UnusedPins.txt
+         An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+         An augmented pin report has been written to Integration\AugmentedPins.txt.

@@ -1,0 +1,24 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part S25FL256SAGBHI200                |
+       U2                              |   A2| <unconnected pin>
+       U2                              |   A3| <unconnected pin>
+       U2                              |   A5| <unconnected pin>
+       U2                              |   B1| <unconnected pin>
+       U2                              |   B5| <unconnected pin>
+       U2                              |   C1| <unconnected pin>
+       U2                              |   C3| <unconnected pin>
+       U2                              |   C5| <unconnected pin>
+       U2                              |   D1| <unconnected pin>
+       U2                              |   D5| <unconnected pin>
+       U2                              |   E1| <unconnected pin>
+       U2                              |   E2| <unconnected pin>
+       U2                              |   E3| <unconnected pin>
+       U2                              |   E4| <unconnected pin>
+       U2                              |   A4| <unconnected pin>
+       U2                              |   E5| <unconnected pin>
+ Part Molex_87832-1420                 |
+       J1                              |   15| <unconnected pin>
+       J1                              |   16| <unconnected pin>

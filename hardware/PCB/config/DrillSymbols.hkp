@@ -1,0 +1,56 @@
+.HoleName  "Rnd 0.3 mm" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "A" 
+  ..CharAndDrlSzTogether  NO 
+
+
+.HoleName  "Rnd 0.5 mm" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "B" 
+  ..CharAndDrlSzTogether  NO 
+
+
+.HoleName  "Rnd 1.0 mm" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "C" 
+  ..CharAndDrlSzTogether  NO 
+
+
+.HoleName  "Rnd 1.05mm +/-Tol 0.05" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "E" 
+  ..CharAndDrlSzTogether  NO 
+
+
+.HoleName  "Rnd 1.1" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "D" 
+  ..CharAndDrlSzTogether  NO 
+
+
+.HoleName  "Rnd 1.45 mm PLT" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "F" 
+  ..CharAndDrlSzTogether  NO 
+
+
+.HoleName  "Rnd 3.3 mm" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "G" 
+  ..CharAndDrlSzTogether  NO 
+
+

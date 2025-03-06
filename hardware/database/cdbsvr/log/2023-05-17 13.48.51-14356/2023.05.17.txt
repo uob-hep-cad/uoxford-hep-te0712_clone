@@ -1,0 +1,138 @@
+[2023.05.17 13:48:51] [0000m.00s.036ms] [0] WELCOME
+[2023.05.17 13:48:51] [0000m.00s.078ms] [1] iCDB Server ver.2.212, 0lZoFgSrvpc01NWN9kUtqA, build:21696686 created 2022-11-16 19:52:41, sources stamp:0lZoFgSrvpc01NWN9kUtqA
+[2023.05.17 13:48:51] [0000m.00s.078ms] [1] Unpublished work. Copyright 2022 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2023.05.17 13:48:51] [0000m.00s.078ms] [1] Base flow version [VX.2.12]
+[2023.05.17 13:48:51] [0000m.00s.078ms] [1] Install Id [2499080], Flow Id [X-ENTP VX.2.12], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.12], Exact Access Date [2022/08/01]
+[2023.05.17 13:48:51] [0000m.00s.078ms] [1] UPDATE Install Info, Install Id [2533498], UPDATE Name [Xpedition Enterprise X-ENTP VX.2.12 - Update 2]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] Machine [ELWT2]  IP [10.140.0.61,127.0.0.1]  User [hastingsp]  PID [14356]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] Operating system [Microsoft Windows 10 Enterprise Edition, 64-bit (build 19045)]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] Current working dir [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] PATH [C:\MentorGraphics\EEVX.2.12\SDD_HOME\xe\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.12\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\wg\win64\lib;C:\MentorGraphics\EEVX.2.12\SDD_HOME\common3D\win64\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\MATLAB\R2021a\runtime\win64;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\PuTTY\;C:\Users\hastingsp\AppData\Local\Microsoft\WindowsApps;]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.12\SDD_HOME] on file system [NTFS]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] SDD_PLATFORM [win64]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] WDIR [C:\WDIR\EEVX.2.12;C:\MentorGraphics\EEVX.2.12\SDD_HOME\standard;]
+[2023.05.17 13:48:51] [0000m.00s.095ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.12\iCDB] on file system [NTFS]
+[2023.05.17 13:48:51] [0000m.00s.096ms] [2] S: Loading config files
+[2023.05.17 13:48:51] [0000m.00s.105ms] [1] Config file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\cdbsvr\Server.cfg] not found
+[2023.05.17 13:48:51] [0000m.00s.109ms] [3] S: Config loaded
+[2023.05.17 13:48:51] [0000m.00s.139ms] [0] S: Project path [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database] on file system [NTFS]
+[2023.05.17 13:48:51] [0000m.00s.139ms] [0] S: Project global path [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database] on file system [NTFS]
+[2023.05.17 13:48:51] [0000m.00s.139ms] [0] S: Project file (.prj) path [\\physics.ox.ac.uk\dfs\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj] on file system [UNKNOWN]
+[2023.05.17 13:48:51] [0000m.00s.139ms] [0] S: Project file (.prj) local path [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj] on file system [NTFS]
+[2023.05.17 13:48:51] [0000m.00s.144ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2023.05.17 13:48:51] [0000m.00s.144ms] [0] S: Single-user mode (auto)
+[2023.05.17 13:48:51] [0000m.00s.144ms] [0] S: Event polling mode autodetection
+[2023.05.17 13:48:51] [0000m.00s.145ms] [0] S: Started up automatically by iCDB Client: ELWT2:hastingsp:4732
+[2023.05.17 13:48:51] [0000m.00s.145ms] [0] S: Auto close mode
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] S: Database ID [b853-a3c2-3782-12e4-687a-0e3c-87a0-e360-6822-ee3b-69e5-e5e5]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: BEGIN dumping
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: Local -> global path prefix list
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\ELWT2\print$]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [H:\] -> [\\ppfs6.physics.ox.ac.uk\CEG\HastingsP\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [O:\] -> [\\physics.ox.ac.uk\dfs\options\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [S:\] -> [\\physics.ox.ac.uk\dfs\sharable\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [Y:\] -> [\\physics.ox.ac.uk\dfs\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: Global -> local path prefix list
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [\\ppfs6.physics.ox.ac.uk\CEG\HastingsP\] -> [H:\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [\\physics.ox.ac.uk\dfs\sharable\] -> [S:\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [\\physics.ox.ac.uk\dfs\options\] -> [O:\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [\\physics.ox.ac.uk\dfs\] -> [Y:\]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: [\\ELWT2\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] PathTranslator: END dumping
+[2023.05.17 13:48:51] [0000m.00s.146ms] [0] S: START
+[2023.05.17 13:48:51] [0000m.00s.168ms] [0] S: Server startup lock file created
+[2023.05.17 13:48:51] [0000m.00s.169ms] [0] S: Listening for client connections on port [10000]
+[2023.05.17 13:48:51] [0000m.00s.170ms] [0] S: Server network ID [ELWT2:10.140.0.61,ELWT2,ELWT2.physics.ox.ac.uk:10000]
+[2023.05.17 13:48:51] [0000m.00s.170ms] [0] S: Server GUID [07cc-7223-2f60-ca05-33dc-4649-3dc4-6460-2362-ee3b-69e5-e5e5]
+[2023.05.17 13:48:51] [0000m.00s.170ms] [0] S: Project GUID [b853-a3c2-3782-12e4-687a-0e3c-87a0-e360-6822-ee3b-69e5-e5e5]
+[2023.05.17 13:48:51] [0000m.00s.218ms] [0] S: Wrote data to server address file
+[2023.05.17 13:48:51] [0000m.00s.222ms] [0] S: Server startup lock file removed
+[2023.05.17 13:48:51] [0000m.00s.223ms] [1] ProjectBackupManager: Setting project file (.prj) path: [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\MIB_Module.prj]
+[2023.05.17 13:48:57] [0000m.05s.914ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2023.05.17 13:48:57] [0000m.05s.914ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.12\SDD_HOME\iCDB\win64\bin]
+[2023.05.17 13:48:57] [0000m.05s.915ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.12\SDD_HOME\common\win64\bin]
+[2023.05.17 13:48:57] [0000m.05s.915ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2023.05.17 13:48:57] [0000m.05s.915ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2023.05.17 13:48:57] [0000m.05s.915ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2023.05.17 13:48:57] [0000m.05s.915ms] [0] S: Local disc access time: 49 us
+[2023.05.17 13:48:57] [0000m.05s.916ms] [0] S: File server access time: 103 us
+[2023.05.17 13:48:57] [0000m.05s.980ms] [0] Single file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\icdb.dat] size [499664 (488.0 kB)]
+[2023.05.17 13:48:57] [0000m.05s.983ms] [1] Single file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\icdb.dat] opened in read-write mode
+[2023.05.17 13:48:57] [0000m.05s.986ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.05.17 13:48:57] [0000m.05s.986ms] [0] Database GUARD OK: [499664]
+[2023.05.17 13:48:57] [0000m.06s.000ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.05.17 13:48:57] [0000m.06s.000ms] [0] Database GUARD OK: [499664]
+[2023.05.17 13:48:57] [0000m.06s.000ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.05.17 13:48:57] [0000m.06s.000ms] [0] Database GUARD OK: [499664]
+[2023.05.17 13:48:57] [0000m.06s.001ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.05.17 13:48:57] [0000m.06s.001ms] [0] Database GUARD OK: [499664]
+[2023.05.17 13:48:57] [0000m.06s.001ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2023.05.17 13:48:57] [0000m.06s.002ms] [0] Database GUARD OK: [499664]
+[2023.05.17 13:48:57] [0000m.06s.002ms] [0] SingleFile: [79ff-804a-2819-db2b] SFI version check [1009] [1009]
+[2023.05.17 13:48:57] [0000m.06s.013ms] [0] SingleFile: [79ff-804a-2819-db2b] Database SFI header has been read in [12ms 36us]
+[2023.05.17 13:48:57] [0000m.06s.017ms] [0] iCDB Server PI: Server & plugin session [1289]
+[2023.05.17 13:48:57] [0000m.06s.017ms] [0] iCDB Server PI: Opening database [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database]
+[2023.05.17 13:48:57] [0000m.06s.017ms] [0] iCDB Server PI: Database [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database] opened
+[2023.05.17 13:48:57] [0000m.06s.109ms] [0] iCDB Database: Checking existence of constraint definitions
+[2023.05.17 13:48:57] [0000m.06s.109ms] [0] iCDB Database: Checking constraint definitions version
+[2023.05.17 13:48:57] [0000m.06s.148ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.77;user.cns=c416-e5d0-d59d-600b-ca44-4b32-b444-b360-2c62-ee3b-69e5-e5e5] up to date
+[2023.05.17 13:48:57] [0000m.06s.227ms] [0] iCDB Server PI: Initializing plugins
+[2023.05.17 13:48:57] [0000m.06s.227ms] [0] iCDB Server PI: Plugins initialized
+[2023.05.17 13:48:57] [0000m.06s.227ms] [0] S: iCDB database loaded
+[2023.05.17 13:48:57] [0000m.06s.228ms] [0] S: Starting threads
+[2023.05.17 13:48:57] [0000m.06s.229ms] [0] BT: Listening for broadcast messages on port [10000]
+[2023.05.17 13:48:57] [0000m.06s.229ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2023.05.17 13:48:57] [0000m.06s.231ms] [0] IT: Session [1290] for host [ELWT2] user [hastingsp] client type[0] clsvrPluginID[0] with process ID [4732] created
+[2023.05.17 13:48:57] [0000m.06s.234ms] [0] MWT: WindowProc: WM_NCCREATE
+[2023.05.17 13:48:57] [0000m.06s.243ms] [1] SC[1290]: Registered sub-client [Expedition PCB_627023468] with ID [1] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:48:57] [0000m.06s.335ms] [1] CMT: There are [1] clients now: 1290
+[2023.05.17 13:48:57] [0000m.06s.484ms] [1] SC[1290]: Registered sub-client [EEVM_EEVM_963196848] with ID [2] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:48:57] [0000m.06s.514ms] [1] SC[1290]: UnRegistered sub-client [EEVM_EEVM_963196848] with ID [2] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:48:57] [0000m.06s.519ms] [1] SC[1290]: Registered sub-client [EEVM_EEVM_963196848] with ID [3] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:48:57] [0000m.06s.534ms] [1] SC[1290]: UnRegistered sub-client [EEVM_EEVM_963196848] with ID [3] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:02] [0000m.11s.551ms] [1] SC[1290]: Registered sub-client [JobPrefsDBPI_627038578] with ID [4] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:02] [0000m.11s.560ms] [1] SC[1290]: UnRegistered sub-client [JobPrefsDBPI_627038578] with ID [4] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:04] [0000m.12s.631ms] [1] SC[1290]: Registered sub-client [JobPrefsDBPI_627039656] with ID [5] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:04] [0000m.12s.639ms] [1] SC[1290]: UnRegistered sub-client [JobPrefsDBPI_627039656] with ID [5] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:05] [0000m.13s.964ms] [1] SC[1290]: Registered sub-client [JobPrefsDBPI_627040984] with ID [6] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:05] [0000m.14s.396ms] [1] SC[1290]: UnRegistered sub-client [JobPrefsDBPI_627040984] with ID [6] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:08] [0000m.16s.844ms] [1] SC[1290]: Registered sub-client [JobPrefsDBPI_627043875] with ID [7] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:08] [0000m.16s.889ms] [1] SC[1290]: UnRegistered sub-client [JobPrefsDBPI_627043875] with ID [7] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:09] [0000m.18s.299ms] [1] SC[1290]: Registered sub-client [JobPrefsDBPI_627045328] with ID [8] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:09] [0000m.18s.338ms] [1] SC[1290]: UnRegistered sub-client [JobPrefsDBPI_627045328] with ID [8] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:09] [0000m.18s.535ms] [1] SC[1290]: Registered sub-client [ExpeditionCrossProber] with ID [9] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:09] [0000m.18s.540ms] [1] SC[1290]: Registered sub-client [StartServerClient3948] with ID [10] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:09] [0000m.18s.541ms] [1] SC[1290]: UnRegistered sub-client [StartServerClient3948] with ID [10] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:13] [0000m.22s.016ms] [1] PrjBackupMgr: Successfully created Project Backup [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-05-17 13.48.57 - auto.zip] with GUID [f37c-409e-d094-0df1-93dc-464f-3dc4-6460-2a6f-de3b-69e5-e5e5]
+[2023.05.17 13:49:13] [0000m.22s.035ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[327e-fa71-5199-5337-ea60-e544-b60e-5460-a890-ee3b-69e5-e5e5] CreationTime[Friday, May 12, 2023 09:28:14] Type[Autosave] Creator[iCDB Server (2023-05-12 10.28.06-12440)] ApplicationName[iCDB Server (2023-05-12 10.28.06-12440)] UserName[hastingsp] MachineName[ELWT2] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.12; Xpedition Enterprise X-ENTP VX.2.12 - Update 2] FlowId[EEVX.2.12] GBSInstallId[2499080; 2533498] GBSBuildId[21696686] IcdbVersion[4200] ReferenceLogFilePath[] BackupFilePath[Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-05-12 10.28.14 - auto.zip] BackupFileSize[12814172] Persistent[FALSE]
+[2023.05.17 13:49:13] [0000m.22s.271ms] [0] PrjBackupMgr: Project Backup file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-05-12 10.28.14 - auto.zip] with GUID [327e-fa71-5199-5337-ea60-e544-b60e-5460-a890-ee3b-69e5-e5e5] removed
+[2023.05.17 13:49:13] [0000m.22s.289ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[f37c-409e-d094-0df1-93dc-464f-3dc4-6460-2a6f-de3b-69e5-e5e5] CreationTime[Wednesday, May 17, 2023 12:48:57] Type[Autosave] Creator[iCDB Server (2023-05-17 13.48.51-14356)] ApplicationName[iCDB Server (2023-05-17 13.48.51-14356)] UserName[hastingsp] MachineName[ELWT2] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.12; Xpedition Enterprise X-ENTP VX.2.12 - Update 2] FlowId[EEVX.2.12] GBSInstallId[2499080; 2533498] GBSBuildId[21696686] IcdbVersion[4200] ReferenceLogFilePath[] BackupFilePath[Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\ProjectBackup\backups\2023-05-17 13.48.57 - auto.zip] BackupFileSize[12797873] Persistent[FALSE]
+[2023.05.17 13:49:15] [0000m.24s.573ms] [1] SC[1290]: Registered sub-client [XPDAddin] with ID [11] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:15] [0000m.24s.574ms] [1] SC[1290]: UnRegistered sub-client [XPDAddin] with ID [11] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:49:26] [0000m.35s.617ms] [0] DFAMT: File server access time: 204 us
+[2023.05.17 13:58:46] [0009m.54s.850ms] [1] SC[1290]: UnRegistered sub-client [ExpeditionCrossProber] with ID [9] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:58:49] [0009m.58s.130ms] [1] SC[1290]: UnRegistered sub-client [Expedition PCB_627023468] with ID [1] for session ID [1290] host [ELWT2] user [hastingsp] process ID [4732]
+[2023.05.17 13:58:49] [0009m.58s.236ms] [1] CMT: Removed client [1290]
+[2023.05.17 13:58:49] [0009m.58s.236ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2023.05.17 13:58:51] [0009m.59s.648ms] [0] CMT: Starting server auto-close
+[2023.05.17 13:58:51] [0009m.59s.756ms] [0] S: Closing server
+[2023.05.17 13:58:51] [0009m.59s.910ms] [0] iCDB Server PI: Closing plugins
+[2023.05.17 13:58:51] [0009m.59s.910ms] [0] iCDB Server PI: Plugins closed
+[2023.05.17 13:58:51] [0009m.59s.910ms] [0] iCDB Server PI: Unloading database
+[2023.05.17 13:58:51] [0009m.59s.910ms] [0] iCDB Server PI: Saving storage
+[2023.05.17 13:58:51] [0009m.59s.910ms] [0] iCDB Server PI: Closing database
+[2023.05.17 13:58:51] [0009m.59s.910ms] [1] Hole: zero line at 499644 of size 8 bytes.
+[2023.05.17 13:58:51] [0009m.59s.918ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[98%]
+[2023.05.17 13:58:51] [0009m.59s.918ms] [1] iCDB Server PI: Stats: Database file size [499664 (488.0 kB)]
+[2023.05.17 13:58:51] [0009m.59s.918ms] [1] Hole: zero line at 499644 of size 8 bytes.
+[2023.05.17 13:58:51] [0009m.59s.946ms] [0] iCDB Server PI: Database closed
+[2023.05.17 13:58:51] [0009m.59s.946ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [109001] ticks
+[2023.05.17 13:58:51] [0009m.59s.946ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [10900] microseconds
+[2023.05.17 13:58:51] [0009m.59s.946ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [6]
+[2023.05.17 13:58:51] [0009m.59s.946ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [550] commands per second
+[2023.05.17 13:58:51] [0009m.59s.946ms] [1] iCDB Server PI: Stats: Mem[23924736]
+[2023.05.17 13:58:51] [0009m.59s.946ms] [1] iCDB Server PI: Stats: MemPeak[35876864]
+[2023.05.17 13:58:51] [0009m.59s.960ms] [0] Single file [Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\database\icdb.dat] closed with size [499664 (488.0 kB)]
+[2023.05.17 13:58:51] [0010m.00s.083ms] [0] MWT: Destroy the shutdown block reason.
+[2023.05.17 13:58:51] [0010m.00s.085ms] [0] MWT: STOP
+[2023.05.17 13:58:51] [0010m.00s.086ms] [0] S: STOP

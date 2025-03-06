@@ -1,0 +1,47 @@
+<metadata>
+	<header>
+		<node name="designer_name" display="Designer Name" value="hastingsp" />
+		<node name="layer_count" display="Layer Count" value="10" />
+	</header>
+	<requirements>
+		<node name="board_thickness" display="Board Thickness" units="mm" value="1.8" />
+	</requirements>
+	<steps>
+		<step name="mib_module" description="">
+			<requirements>
+				<node name="plated_slots" display="Plated Slots" value="no" />
+				<node name="soldermask_sides" display="Solder Mask Sides" value="both" />
+			</requirements>
+			<manufacturing>
+				<node name="smallest_drill_size" display="Smallest Drill Size" units="mm" value="0.3" />
+				<node name="number_of_drill_holes" display="Number of Drill Holes" value="790" />
+				<node name="number_of_unique_drill_sizes" display="Number of Unique Drill Sizes" value="7" />
+				<node name="number_of_vias" display="Number of Vias" value="765" />
+				<node name="smallest_trace_width" display="Smallest Trace Width" units="mm" value="0.1" />
+				<node name="smallest_via_diameter" display="Smallest Via Diameter" units="mm" value="0.3" />
+			</manufacturing>
+			<assembly>
+				<node name="number_of_fiducials" display="Number of Fiducials" value="0" />
+				<node name="smd_technology" display="SMD Technology" value="double sided" />
+				<node name="number_of_nets" display="Number of Nets" value="165" />
+				<node name="number_of_test_points" display="Number of Test_Points" value="0" />
+				<node name="component_count" display="Component Count" value="160">
+					<classify_by name="top" display="Components in Top Layer" value="54">
+						<classify_by name="Discrete_Other" value="7" />
+						<classify_by name="IC_BGA" value="2" />
+						<classify_by name="Discrete_Chip" value="15" />
+						<classify_by name="Connector" value="2" />
+						<classify_by name="General" value="28" />
+					</classify_by>
+					<classify_by name="bottom" display="Components in Bottom Layer" value="106">
+						<classify_by name="Discrete_Other" value="54" />
+						<classify_by name="IC_BGA" value="1" />
+						<classify_by name="Discrete_Chip" value="7" />
+						<classify_by name="Connector" value="3" />
+						<classify_by name="General" value="41" />
+					</classify_by>
+				</node>
+			</assembly>
+		</step>
+	</steps>
+</metadata>

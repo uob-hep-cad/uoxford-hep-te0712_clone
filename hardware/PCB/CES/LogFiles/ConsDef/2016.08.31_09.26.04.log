@@ -1,0 +1,30 @@
+Wed Aug 31 09:26:04 2016
+
+Project path: C:\MGTraining\common\libraries\master-DXD\Templates\Layout\training\keyin.icdb
+
+Env. WDIR: C:\MGTraining\projects\local_config;C:\MGTraining\common\config;C:\MentorGraphics\EEVX.2\SDD_HOME\standard;
+WDIRs: 
+	C:\MGTraining\projects\local_config
+	C:\MGTraining\common\config
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\MGTraining\projects\local_config\user.cns=b23c-8f7d-f199-9f05-9295-5c7e-2955-c750-e0a9-6530-46eb-a433
+	C:\MGTraining\common\config\user.cns=660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+
+Loaded cns - data stored in database: C:\MGTraining\projects\local_config\user.cns=b23c-8f7d-f199-9f05-9295-5c7e-2955-c750-e0a9-6530-46eb-a433;C:\MGTraining\common\config\user.cns=660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8;C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+Before global upgrade from version: 7.10.56 to version: 7.10.56
+
+BeforeGlobalUpgrade took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 16ms, 0s
+
+After global upgrade
+Set database cns file versions: ce_ee.cns=7.10.56;user.cns=660b-f267-c91f-eef8-8d4a-cefc-d4ac-ef40-ea08-b795-e2cf-fcf8,b23c-8f7d-f199-9f05-9295-5c7e-2955-c750-e0a9-6530-46eb-a433
+AfterGlobalUpgrade took 0ms, 0s
+

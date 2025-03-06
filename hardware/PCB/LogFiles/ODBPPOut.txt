@@ -1,0 +1,96 @@
+
+                          Xpedition Layout ODB++ Output
+                          -----------------------------
+
+                        08:26 AM Wednesday, June 28, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+Configuration file found. Using the following settings.
+        Output User Layers 
+        Output ODB++ Documentation Layers
+        Output User Layers 
+        Using Placement Outline for package outline
+        Remove NFP Pins: None
+        Remove NFP Vias: None
+        Units: Metric
+        Version 8.0
+        Read DRC Features
+        Round Corners
+        Compress job
+        Use Generate SilkScreen Data
+        Output Part Numbers
+        Output Board Outline
+
+Output Dir: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\Output\ODBpp\
+Output Job Name: dunemibmodule_280623
+Processing Board Outline
+Processing Layer Information
+Processing Symbols
+Processing Packages
+    No Placement Outline defined for TESTPAD35
+        Using Pin Extents for outline.
+    No Placement Outline defined for TESTPAD35THRU
+        Using Pin Extents for outline.
+    No Placement Outline defined for TESTPAD40
+        Using Pin Extents for outline.
+Processing Components
+        Changing Part Number Case B Tantalum to Case_B_Tantalum
+        Changing Part Number Case B Tantalum to Case_B_Tantalum
+        Changing Part Number 2x1 Header to 2x1_Header
+Processing Nets
+Processing Nets
+Processing Layer Information
+Processing Features
+    Layer - layer_top
+    WARNING: The arc at (1.4938755,0.5850977)(mm), (1.4938756,0.5850978)(mm) is being approximated to a line.
+    WARNING: The arc at (0.3385830,0.4488189)(mm), (0.3385827,0.4488186)(mm) is being approximated to a line.
+    WARNING: The arc at (0.2913389,0.3700787)(mm), (0.2913386,0.3700784)(mm) is being approximated to a line.
+    WARNING: The arc at (0.3385830,0.8425197)(mm), (0.3385827,0.8425194)(mm) is being approximated to a line.
+    WARNING: The arc at (0.2913389,0.7637795)(mm), (0.2913386,0.7637792)(mm) is being approximated to a line.
+    WARNING: The arc at (0.9448819,1.2165357)(mm), (0.9448822,1.2165354)(mm) is being approximated to a line.
+    WARNING: The arc at (0.9921260,1.1023625)(mm), (0.9921263,1.1023622)(mm) is being approximated to a line.
+    WARNING: The arc at (0.2204728,1.1811024)(mm), (0.2204724,1.1811020)(mm) is being approximated to a line.
+    WARNING: The arc at (0.2204724,1.1023625)(mm), (0.2204728,1.1023622)(mm) is being approximated to a line.
+    WARNING: The arc at (0.2007874,1.2716539)(mm), (0.2007877,1.2716535)(mm) is being approximated to a line.
+    Layer - layer_02
+    Layer - layer_03
+    Layer - layer_04
+    WARNING: The arc at (1.6493506,0.1471259)(mm), (1.6493506,0.1471499)(mm) is being approximated to a line.
+    WARNING: The arc at (1.8680359,1.0422528)(mm), (1.8680360,1.0422530)(mm) is being approximated to a line.
+    WARNING: The arc at (1.7988619,0.1462944)(mm), (1.7988619,0.1462943)(mm) is being approximated to a line.
+    WARNING: The arc at (1.9551311,1.0478645)(mm), (1.9551312,1.0478646)(mm) is being approximated to a line.
+    WARNING: The arc at (2.3201537,0.0892742)(mm), (2.3201536,0.0892742)(mm) is being approximated to a line.
+    Layer - layer_05
+    Layer - layer_06
+    Layer - layer_07
+    WARNING: The arc at (1.5590551,0.6692914)(mm), (1.5590551,0.6693105)(mm) is being approximated to a line.
+    WARNING: The arc at (1.5465686,0.6187857)(mm), (1.5465685,0.6187856)(mm) is being approximated to a line.
+    Layer - layer_08
+    WARNING: The arc at (1.5976787,0.1639541)(mm), (1.5976786,0.1639542)(mm) is being approximated to a line.
+    WARNING: The arc at (1.5211102,0.4127846)(mm), (1.5211100,0.4127843)(mm) is being approximated to a line.
+    Layer - layer_09
+    Layer - layer_bottom
+    WARNING: The arc at (1.9862037,0.7639957)(mm), (1.9862034,0.7639954)(mm) is being approximated to a line.
+    WARNING: The arc at (1.7923362,0.5758319)(mm), (1.7923363,0.5758318)(mm) is being approximated to a line.
+    WARNING: The arc at (2.0249014,0.4494501)(mm), (2.0249017,0.4494498)(mm) is being approximated to a line.
+    WARNING: The arc at (0.4606299,1.3149609)(mm), (0.4606302,1.3149606)(mm) is being approximated to a line.
+    WARNING: The arc at (0.5433071,1.3031499)(mm), (0.5433074,1.3031496)(mm) is being approximated to a line.
+    Layer - spt
+    Layer - spb
+    Layer - smt
+    Layer - smb
+    Processing Assembly Data
+    Processing Through Drill Drawing Data
+    Processing Vias
+    Processing Component Holes
+    Processing Mounting Holes
+    Processing Alternate Silkscreen Data
+    WARNING: The arc at (2.5268213,1.3138565)(mm), (2.5268211,1.3138563)(mm) is being approximated to a line.
+    WARNING: The arc at (2.4955046,1.3138563)(mm), (2.4955044,1.3138565)(mm) is being approximated to a line.
+    WARNING: The arc at (2.5143687,1.3547291)(mm), (2.5143693,1.3547293)(mm) is being approximated to a line.
+    WARNING: The arc at (2.5268211,1.3138567)(mm), (2.5268213,1.3138565)(mm) is being approximated to a line.
+Creating package
+Packaging completed
+Process Completed at ....
+08:26:32 AM Wednesday, June 28, 2023

@@ -1,0 +1,248 @@
+
+                               Forward Annotation
+                               ------------------
+
+                        08:07 AM Wednesday, June 28, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB and to replace any duplicates found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 24
+          Part Numb: ADP1741ACPZ-R7 -> Vend Part: ADP1741ACPZ-R7 
+          Part Numb: Case B Tantalum -> Vend Part: Case B Tantalum 
+          Part Numb: C0201 -> Vend Part: C0201 
+          Part Numb: C0402 -> Vend Part: C0402 
+          Part Numb: C0805 -> Vend Part: C0805 
+          Part Numb: C1206 -> Vend Part: C1206 
+          Part Numb: DS04-254-2-03BK-SMT -> Vend Part: DS04-254-2-03BK-SMT 
+          Part Numb: ECX2-LMV-5CN-125.000-TR -> Vend Part: ECX2-LMV-5CN-125.000-TR 
+          Part Numb: LSHM-130-04.0-L-DV-A-N-K-TR -> Vend Part: LSHM-130-04.0-L-DV-A-N-K-TR 
+          Part Numb: LSHM-150-04.0-L-DV-A-N-K-TR -> Vend Part: LSHM-150-04.0-L-DV-A-N-K-TR 
+          Part Numb: Molex_87832-1420 -> Vend Part: Molex_87832-1420 
+          Part Numb: MPZ0603S121HT000 -> Vend Part: MPZ0603S121HT000 
+          Part Numb: MPZ1608S221ATA00 -> Vend Part: MPZ1608S221ATA00 
+          Part Numb: PMEG2005EL,315 -> Vend Part: PMEG2005EL,315 
+          Part Numb: R0402 -> Vend Part: R0402 
+          Part Numb: R1218 -> Vend Part: R1218 
+          Part Numb: S25FL256SAGBHI200 -> Vend Part: S25FL256SAGBHI200 
+          Part Numb: TE_282834_3 -> Vend Part: TE_282834_3 
+          Part Numb: TPS2116DRLR -> Vend Part: TPS2116DRLR 
+          Part Numb: TPS6283810 -> Vend Part: TPS6283810 
+          Part Numb: XC7A100T-2FGG484C -> Vend Part: XC7A100T-2FGG484C 
+          Part Numb: XFL4012-251ME -> Vend Part: XFL4012-251ME 
+          Part Numb: 2x1 Header -> Vend Part: 2x1 Header 
+          Part Numb: 511BBA74M2500BAG -> Vend Part: 511BBA74M2500BAG 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+    WARNING: Block MIB_FPGA_Module, Page FPGA Bank 0 + MGT + FLASH, Symbol $6I734:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = PMEG2005EL,315
+      Symbol Property: Description = 
+     PartsDB Property: Description = 20 V, 0.5 A very low VF MEGA Schottky barrier rectifier in leadless ultra small SOD882 package
+
+    WARNING: Block MIB_FPGA_Module, Page FPGA Bank 0 + MGT + FLASH, Symbol $6I769:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = MPZ0603S121HT000
+      Symbol Property: Description = 
+     PartsDB Property: Description = TDK Ferrite Beads 0201 120ohms 25% DCR 0.130ohms 1000mA 
+
+    WARNING: Block MIB_FPGA_Module, Page FPGA Bank 0 + MGT + FLASH, Symbol $6I753:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = MPZ0603S121HT000
+      Symbol Property: Description = 
+     PartsDB Property: Description = TDK Ferrite Beads 0201 120ohms 25% DCR 0.130ohms 1000mA 
+
+    WARNING: Block MIB_FPGA_Module, Page Regulators, Symbol $8I427:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ADP1741ACPZ-R7
+      Symbol Property: Description = Analog Devices ADP1741ACPZ-R7, 5 LDO Voltage Regulator, Adjustable 2A, 0.75  3.3 V 0.51V, 16-Pin LFCSP WQ
+     PartsDB Property: Description = Analog Devices Linear Voltage Regulator 2A LDO adj V-out
+
+    WARNING: Block MIB_FPGA_Module, Page Regulators, Symbol $8I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ADP1741ACPZ-R7
+      Symbol Property: Description = Analog Devices ADP1741ACPZ-R7, 5 LDO Voltage Regulator, Adjustable 2A, 0.75  3.3 V 0.51V, 16-Pin LFCSP WQ
+     PartsDB Property: Description = Analog Devices Linear Voltage Regulator 2A LDO adj V-out
+
+    WARNING: Block MIB_FPGA_Module, Page Regulators, Symbol $8I1773:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = XFL4012-251ME
+      Symbol Property: Description = 
+     PartsDB Property: Description = Power Inductors - SMD 250nH Shld 11.45A 8.4mOhm AECQ2 
+
+    WARNING: Block MIB_FPGA_Module, Page FPGA Bank 0 + MGT + FLASH, Symbol $6I1063:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = MPZ1608S221ATA00
+      Symbol Property: Description = 
+     PartsDB Property: Description = 220 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhm
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     WARNING: Unable to find the following cell(s) in central library
+	#4NUT
+	#4SCREW
+	#4WASHER
+	(_VB_DRILL_DRAWING_)THRU
+	(_VB_DRILL_SYMBOLS_)THRU
+	B SIZE SHEET
+	LAYERSTACKUPCELL
+	Mentor_logo
+	TESTPAD35
+	TESTPAD35THRU
+	TESTPAD40
+	
+
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 169 Symbols:
+             169  ******************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     163 nets were found containing 870 pins
+     160 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     This Logic Data was Compiled with 8 warnings.
+      Erroneous results may occur if not fixed.
+
+                                     NetLoad
+                                     -------
+
+                        08:07 AM Wednesday, June 28, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be deleted.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+            Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+            from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a via which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Assigned net MGT_TX0_P to a trace which was originally on net MGT_TX0_N.
+	Broke back a trace from the point (53400000, 10999998).
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a via which was originally on net MGT_TX0_P.
+	Assigned net MGT_TX0_N to a trace which was originally on net MGT_TX0_P.
+	Broke back a trace from the point (53600000, 11000000).
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 42 reassignments of nets.
+There were 2 traces broken back.
+There were 0 nets removed from the Layout Design.

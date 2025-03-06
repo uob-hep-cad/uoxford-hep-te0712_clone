@@ -1,0 +1,9 @@
+		-----Replace Padstack Log-----
+		------------------------------
+		07:37:59 AM Feb 09, 2023
+
+The following Padstacks were replaced because the local padstack DB was updated.
+
+Padstack Name		Old Timestamp		New Timestamp
+-------------		-------------		-------------
+r210_130_via		<02/09/2023 07:00:17>		<02/09/2023 07:37:37>

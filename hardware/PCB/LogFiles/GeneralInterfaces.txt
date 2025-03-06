@@ -1,0 +1,21 @@
+
+                       Xpedition Layout General Interfaces
+                       -----------------------------------
+
+                          07:07 AM Monday, May 15, 2023
+Job Name: Y:\Users\CEG\Central Electronics\Projects\Hastingsp\MENTOR\DUNE\MIB_Module\PCB\MIB_Module.pcb
+
+
+Processing Setup Parameters
+Processing Padstack Definitions
+	Processing PadStack Pads
+	Processing PadStack Definitions
+Processing Cell Library
+Processing Parts Library
+Processing Design Data
+
+OUTPUT :
+    Generating Generic AIS Data - vb_ais.txt
+
+Process Completed Successfully.
+
